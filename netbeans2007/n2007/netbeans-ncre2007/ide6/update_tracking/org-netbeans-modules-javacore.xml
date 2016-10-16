@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.javacore/1">
+    <module_version install_time="1142379472717" last="true" origin="installer" specification_version="1.18.1.2.2">
+        <file crc="368932802" name="config/Modules/org-netbeans-modules-javacore.xml"/>
+        <file crc="1676674413" name="modules/ext/gjast.jar"/>
+        <file crc="226681477" name="modules/ext/java-parser.jar"/>
+        <file crc="2465796506" name="modules/locale/org-netbeans-modules-javacore_ja.jar"/>
+        <file crc="1224466069" name="modules/locale/org-netbeans-modules-javacore_zh_CN.jar"/>
+        <file crc="883061508" name="modules/org-netbeans-modules-javacore.jar"/>
+    </module_version>
+</module>

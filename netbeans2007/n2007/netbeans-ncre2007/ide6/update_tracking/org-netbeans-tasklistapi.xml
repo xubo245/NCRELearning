@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.tasklistapi/1">
+    <module_version install_time="1142379527667" last="true" origin="installer" specification_version="1.20.1.7">
+        <file crc="4219280328" name="config/Modules/org-netbeans-tasklistapi.xml"/>
+        <file crc="3449270018" name="modules/locale/org-netbeans-tasklistapi_ja.jar"/>
+        <file crc="359805962" name="modules/locale/org-netbeans-tasklistapi_zh_CN.jar"/>
+        <file crc="3402256794" name="modules/org-netbeans-tasklistapi.jar"/>
+    </module_version>
+</module>

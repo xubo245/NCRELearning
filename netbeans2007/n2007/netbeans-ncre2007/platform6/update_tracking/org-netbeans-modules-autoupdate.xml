@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.autoupdate/1">
+    <module_version install_time="1142379550890" last="true" origin="installer" specification_version="2.16.1">
+        <file crc="746562502" name="config/Modules/org-netbeans-modules-autoupdate.xml"/>
+        <file crc="512649493" name="modules/ext/locale/updater_ja.jar"/>
+        <file crc="2001219407" name="modules/ext/locale/updater_zh_CN.jar"/>
+        <file crc="2339392828" name="modules/ext/updater.jar"/>
+        <file crc="3520507315" name="modules/locale/org-netbeans-modules-autoupdate_ja.jar"/>
+        <file crc="2558227862" name="modules/locale/org-netbeans-modules-autoupdate_zh_CN.jar"/>
+        <file crc="4024114998" name="modules/org-netbeans-modules-autoupdate.jar"/>
+    </module_version>
+</module>

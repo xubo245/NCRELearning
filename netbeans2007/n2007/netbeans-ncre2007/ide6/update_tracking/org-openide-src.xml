@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.openide.src">
+    <module_version install_time="1142379528883" last="true" origin="installer" specification_version="1.8.1">
+        <file crc="1994935973" name="config/Modules/org-openide-src.xml"/>
+        <file crc="4151531875" name="modules/locale/org-openide-src_ja.jar"/>
+        <file crc="2556832278" name="modules/locale/org-openide-src_zh_CN.jar"/>
+        <file crc="2794226909" name="modules/org-openide-src.jar"/>
+    </module_version>
+</module>

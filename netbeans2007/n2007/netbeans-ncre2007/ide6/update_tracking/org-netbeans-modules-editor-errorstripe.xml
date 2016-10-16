@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.editor.errorstripe/2">
+    <module_version install_time="1142379431818" last="true" origin="installer" specification_version="2.2.1.1.1">
+        <file crc="2516827556" name="config/Modules/org-netbeans-modules-editor-errorstripe.xml"/>
+        <file crc="874331190" name="modules/locale/org-netbeans-modules-editor-errorstripe_ja.jar"/>
+        <file crc="670567681" name="modules/locale/org-netbeans-modules-editor-errorstripe_zh_CN.jar"/>
+        <file crc="4293868271" name="modules/org-netbeans-modules-editor-errorstripe.jar"/>
+    </module_version>
+</module>

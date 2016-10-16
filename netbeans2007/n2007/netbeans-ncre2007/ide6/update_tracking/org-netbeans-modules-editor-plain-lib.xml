@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.editor.plain.lib/1">
+    <module_version install_time="1142379437116" last="true" origin="installer" specification_version="1.3.1">
+        <file crc="3597419938" name="config/Modules/org-netbeans-modules-editor-plain-lib.xml"/>
+        <file crc="783157010" name="modules/locale/org-netbeans-modules-editor-plain-lib_ja.jar"/>
+        <file crc="4011398261" name="modules/locale/org-netbeans-modules-editor-plain-lib_zh_CN.jar"/>
+        <file crc="1846533841" name="modules/org-netbeans-modules-editor-plain-lib.jar"/>
+    </module_version>
+</module>

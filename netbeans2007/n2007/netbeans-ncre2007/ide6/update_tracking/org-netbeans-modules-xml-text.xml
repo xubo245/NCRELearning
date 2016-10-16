@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.xml.text/2">
+    <module_version install_time="1142379520134" last="true" origin="installer" specification_version="1.11.1.4.4">
+        <file crc="3831154268" name="config/Modules/org-netbeans-modules-xml-text.xml"/>
+        <file crc="163022603" name="modules/locale/org-netbeans-modules-xml-text_ja.jar"/>
+        <file crc="2404269482" name="modules/locale/org-netbeans-modules-xml-text_zh_CN.jar"/>
+        <file crc="1089764243" name="modules/org-netbeans-modules-xml-text.jar"/>
+    </module_version>
+</module>

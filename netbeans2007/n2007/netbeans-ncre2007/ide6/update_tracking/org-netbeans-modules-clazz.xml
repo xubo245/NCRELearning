@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.clazz/1">
+    <module_version install_time="1142379409031" last="true" origin="installer" specification_version="1.19.1">
+        <file crc="2524022208" name="config/Modules/org-netbeans-modules-clazz.xml"/>
+        <file crc="573767528" name="modules/locale/org-netbeans-modules-clazz_ja.jar"/>
+        <file crc="993078243" name="modules/locale/org-netbeans-modules-clazz_zh_CN.jar"/>
+        <file crc="3174917253" name="modules/org-netbeans-modules-clazz.jar"/>
+    </module_version>
+</module>

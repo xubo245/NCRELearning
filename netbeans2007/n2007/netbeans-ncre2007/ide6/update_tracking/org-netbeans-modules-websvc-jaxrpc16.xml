@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.websvc.jaxrpc16/1">
+    <module_version install_time="1142379508725" last="true" origin="installer" specification_version="1.2.1">
+        <file crc="1849033590" name="config/Modules/org-netbeans-modules-websvc-jaxrpc16.xml"/>
+        <file crc="421782717" name="modules/ext/jaxrpc16/FastInfoset.jar"/>
+        <file crc="336082716" name="modules/ext/jaxrpc16/activation.jar"/>
+        <file crc="2592207163" name="modules/ext/jaxrpc16/jax-qname.jar"/>
+        <file crc="795285055" name="modules/ext/jaxrpc16/jaxp-api.jar"/>
+        <file crc="2402144532" name="modules/ext/jaxrpc16/jaxrpc-api.jar"/>
+        <file crc="1457347449" name="modules/ext/jaxrpc16/jaxrpc-impl.jar"/>
+        <file crc="1124983105" name="modules/ext/jaxrpc16/jaxrpc-spi.jar"/>
+        <file crc="665520387" name="modules/ext/jaxrpc16/jsr173_api.jar"/>
+        <file crc="2027317011" name="modules/ext/jaxrpc16/mail.jar"/>
+        <file crc="3909761959" name="modules/ext/jaxrpc16/relaxngDatatype.jar"/>
+        <file crc="1412374088" name="modules/ext/jaxrpc16/saaj-api.jar"/>
+        <file crc="2689362169" name="modules/ext/jaxrpc16/saaj-impl.jar"/>
+        <file crc="3748445600" name="modules/ext/jaxrpc16/xsdlib.jar"/>
+        <file crc="3239430540" name="modules/locale/org-netbeans-modules-websvc-jaxrpc16_ja.jar"/>
+        <file crc="4125468443" name="modules/locale/org-netbeans-modules-websvc-jaxrpc16_zh_CN.jar"/>
+        <file crc="1755741875" name="modules/org-netbeans-modules-websvc-jaxrpc16.jar"/>
+    </module_version>
+</module>

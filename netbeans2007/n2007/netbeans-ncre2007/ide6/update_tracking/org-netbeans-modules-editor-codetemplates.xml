@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.editor.codetemplates/1">
+    <module_version install_time="1142379425140" last="true" origin="installer" specification_version="1.2.1">
+        <file crc="697631947" name="config/Modules/org-netbeans-modules-editor-codetemplates.xml"/>
+        <file crc="91617533" name="modules/locale/org-netbeans-modules-editor-codetemplates_ja.jar"/>
+        <file crc="1866122310" name="modules/locale/org-netbeans-modules-editor-codetemplates_zh_CN.jar"/>
+        <file crc="803332779" name="modules/org-netbeans-modules-editor-codetemplates.jar"/>
+    </module_version>
+</module>

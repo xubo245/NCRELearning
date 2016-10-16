@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.favorites/1">
+    <module_version install_time="1142379551758" last="true" origin="installer" specification_version="1.11.1">
+        <file crc="1854331821" name="config/Modules/org-netbeans-modules-favorites.xml"/>
+        <file crc="435955461" name="modules/locale/org-netbeans-modules-favorites_ja.jar"/>
+        <file crc="98841136" name="modules/locale/org-netbeans-modules-favorites_zh_CN.jar"/>
+        <file crc="2549938010" name="modules/org-netbeans-modules-favorites.jar"/>
+    </module_version>
+</module>

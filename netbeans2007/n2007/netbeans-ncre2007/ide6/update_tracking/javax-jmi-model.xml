@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="javax.jmi.model/1">
+    <module_version install_time="1142379372827" last="true" origin="installer" specification_version="1.7.1">
+        <file crc="3199507897" name="config/Modules/javax-jmi-model.xml"/>
+        <file crc="1565939532" name="modules/ext/mof.jar"/>
+        <file crc="3649738663" name="modules/javax-jmi-model.jar"/>
+        <file crc="4042372230" name="modules/locale/javax-jmi-model_ja.jar"/>
+        <file crc="693248580" name="modules/locale/javax-jmi-model_zh_CN.jar"/>
+    </module_version>
+</module>

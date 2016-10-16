@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.openide.filesystems">
+    <module_version install_time="1142379567530" last="true" origin="installer" specification_version="6.4.1">
+        <file crc="500278809" name="core/locale/org-openide-filesystems_ja.jar"/>
+        <file crc="1547460410" name="core/locale/org-openide-filesystems_zh_CN.jar"/>
+        <file crc="916722635" name="core/org-openide-filesystems.jar"/>
+    </module_version>
+</module>

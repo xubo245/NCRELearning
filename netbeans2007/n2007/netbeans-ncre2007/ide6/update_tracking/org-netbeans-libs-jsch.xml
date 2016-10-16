@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.libs.jsch/1">
+    <module_version install_time="1142379394571" last="true" origin="installer" specification_version="1.4.1">
+        <file crc="4096165108" name="config/Modules/org-netbeans-libs-jsch.xml"/>
+        <file crc="69867482" name="modules/ext/jsch-0.1.24.jar"/>
+        <file crc="2619525396" name="modules/locale/org-netbeans-libs-jsch_ja.jar"/>
+        <file crc="2452051864" name="modules/locale/org-netbeans-libs-jsch_zh_CN.jar"/>
+        <file crc="658345537" name="modules/org-netbeans-libs-jsch.jar"/>
+    </module_version>
+</module>

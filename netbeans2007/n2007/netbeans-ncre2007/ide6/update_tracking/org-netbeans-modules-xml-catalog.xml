@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.xml.catalog/2">
+    <module_version install_time="1142379512721" last="true" origin="installer" specification_version="1.10.1.4.4">
+        <file crc="1421281771" name="config/Modules/org-netbeans-modules-xml-catalog.xml"/>
+        <file crc="2918864900" name="modules/ext/resolver-1_1_nb.jar"/>
+        <file crc="3749636188" name="modules/locale/org-netbeans-modules-xml-catalog_ja.jar"/>
+        <file crc="2534765694" name="modules/locale/org-netbeans-modules-xml-catalog_zh_CN.jar"/>
+        <file crc="1121449405" name="modules/org-netbeans-modules-xml-catalog.jar"/>
+    </module_version>
+</module>

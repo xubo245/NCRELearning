@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.jmiutils/1">
+    <module_version install_time="1142379475051" last="true" origin="installer" specification_version="1.5.1.2">
+        <file crc="2672428308" name="config/Modules/org-netbeans-modules-jmiutils.xml"/>
+        <file crc="2417494408" name="modules/ext/jmiutils.jar"/>
+        <file crc="2404829642" name="modules/ext/locale/jmiutils_ja.jar"/>
+        <file crc="2758992193" name="modules/ext/locale/jmiutils_zh_CN.jar"/>
+        <file crc="3030621700" name="modules/locale/org-netbeans-modules-jmiutils_ja.jar"/>
+        <file crc="2853836125" name="modules/locale/org-netbeans-modules-jmiutils_zh_CN.jar"/>
+        <file crc="1555099804" name="modules/org-netbeans-modules-jmiutils.jar"/>
+    </module_version>
+</module>

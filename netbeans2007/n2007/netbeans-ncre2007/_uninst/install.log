@@ -1,0 +1,252 @@
+(2007-6-18 17:18:15), Install, org.netbeans.installer.SetSystemPropertiesAction, dbg, OS Info: Windows XP version 5.1 running on x86
+(2007-6-18 17:18:15), Install, org.netbeans.installer.SetSystemPropertiesAction, dbg, JVM Info: 1.4.2_14; Java HotSpot(TM) Client VM 1.4.2_14-b05; Sun Microsystems Inc.
+(2007-6-18 17:18:15), Install, org.netbeans.installer.SetSystemPropertiesAction, dbg, Java Home: C:\j2sdk1.4.2_14\jre
+(2007-6-18 17:18:15), Install, org.netbeans.installer.SetSystemPropertiesAction, dbg, System Locale: zh_CN
+(2007-6-18 17:18:15), Install, org.netbeans.installer.SetSystemPropertiesAction, dbg, prop: $L(org.netbeans.installer.Bundle, Product.name) resolvedProp: NetBeans IDE 5.0 中国教育考试版（2007) 
+(2007-6-18 17:18:15), Install, org.netbeans.installer.SetSystemPropertiesAction, dbg, prop: $L(org.netbeans.installer.Bundle, Product.description) resolvedProp: 功能全面且源代码开放的跨平台 Java IDE
+(2007-6-18 17:18:15), Install, org.netbeans.installer.SetSystemPropertiesAction, dbg, prop: $L(org.netbeans.installer.Bundle, Product.productNumber) resolvedProp: 5.0
+(2007-6-18 17:18:15), Install, org.netbeans.installer.SetSystemPropertiesAction, dbg, prop: $L(org.netbeans.installer.Bundle, Product.vendor) resolvedProp: NetBeans 开放源代码项目
+(2007-6-18 17:18:15), Install, org.netbeans.installer.SetSystemPropertiesAction, dbg, prop: $L(org.netbeans.installer.Bundle, Product.vendorWebsite) resolvedProp: http://www.netbeans.org/
+(2007-6-18 17:18:15), Install, org.netbeans.installer.SetSystemPropertiesAction, dbg, Product UID: 35d1937569d827b124b402ff82500000
+(2007-6-18 17:18:15), Install, org.netbeans.installer.SetSystemPropertiesAction, dbg, Product version: 5.0
+(2007-6-18 17:18:15), Install, org.netbeans.installer.SetSystemPropertiesAction, dbg, Core IDE UID: 5d1f7fd85ca9cf2a34cc04aa04500000
+(2007-6-18 17:18:15), Install, org.netbeans.installer.SetSystemPropertiesAction, dbg, Core IDE version: 5.0
+(2007-6-18 17:18:15), Install, org.netbeans.installer.SetSystemPropertiesAction, dbg, Storage Builder UID: 223ed1634c3b6f5665ec0cf12e500000
+(2007-6-18 17:18:15), Install, org.netbeans.installer.SetSystemPropertiesAction, dbg, Storage Builder version: 5.0
+(2007-6-18 17:18:15), Install, org.netbeans.installer.SetSystemPropertiesAction, dbg, Set Desktop Icon Name: NetBeans IDE 5.0 中国教育考试版（2007) 
+(2007-6-18 17:18:15), Install, org.netbeans.installer.SetSystemPropertiesAction, dbg, Set Programs Menu Folder Name: NetBeans 5.0 for NCRE 2007
+(2007-6-18 17:18:16), Install, com.installshield.product.wizardbeans.LicensePanel, wrn, could not open resource for license_LICENSE_zh.txt
+(2007-6-18 17:18:16), Install, com.installshield.product.wizardbeans.LicensePanel, wrn, could not open resource for license_LICENSE_zh.txt
+(2007-6-18 17:18:29), Install, org.netbeans.installer.InstallLocationPanel, dbg, exited productDestination: d:\netbeans-ncre2007-5.0
+(2007-6-18 17:18:29), Install, org.netbeans.installer.InstallLocationPanel, dbg, exited sbDestination: d:\netbeans-ncre2007-5.0\_uninst\storagebuilder
+(2007-6-18 17:18:29), Install, org.netbeans.installer.JDKSearchAction, dbg, Checking Current JDK: C:\j2sdk1.4.2_14\jre
+(2007-6-18 17:18:29), Install, org.netbeans.installer.JDKSearchAction, dbg, Checking: C:\j2sdk1.4.2_14
+(2007-6-18 17:18:29), Install, org.netbeans.installer.JDKSearchAction, dbg, Checking: C:\j2sdk1.4.2_14\jre
+(2007-6-18 17:18:29), Install, org.netbeans.installer.JDKSearchAction, dbg, Exists: C:\j2sdk1.4.2_14\jre
+(2007-6-18 17:18:29), Install, org.netbeans.installer.JDKSearchAction, dbg, Java version line: 'java version "1.4.2_14"'
+(2007-6-18 17:18:29), Install, org.netbeans.installer.JDKSearchAction, dbg, Adding - C:\j2sdk1.4.2_14
+(2007-6-18 17:18:29), Install, org.netbeans.installer.JDKSearchAction, dbg, Searching C:\j2sdk1.4.2_14 in []
+(2007-6-18 17:18:29), Install, org.netbeans.installer.JDKSearchAction, dbg, Found Valid JDK Home ... C:\j2sdk1.4.2_14
+(2007-6-18 17:18:29), Install, org.netbeans.installer.JDKSearchAction, dbg, Checking Win32 Registry ... 
+(2007-6-18 17:18:29), Install, org.netbeans.installer.JDKSearchAction, dbg, JavaSoft subkey: 1.6
+(2007-6-18 17:18:29), Install, org.netbeans.installer.JDKSearchAction, dbg, Checking JDK: D:\jdk1.6.0_01
+(2007-6-18 17:18:29), Install, org.netbeans.installer.JDKSearchAction, dbg, Checking: D:\jdk1.6.0_01
+(2007-6-18 17:18:29), Install, org.netbeans.installer.JDKSearchAction, dbg, Checking: D:\jdk1.6.0_01\jre
+(2007-6-18 17:18:29), Install, org.netbeans.installer.JDKSearchAction, dbg, Exists: D:\jdk1.6.0_01\jre
+(2007-6-18 17:18:30), Install, org.netbeans.installer.JDKSearchAction, dbg, Java version line: 'java version "1.6.0_01"'
+(2007-6-18 17:18:30), Install, org.netbeans.installer.JDKSearchAction, dbg, Adding - D:\jdk1.6.0_01
+(2007-6-18 17:18:30), Install, org.netbeans.installer.JDKSearchAction, dbg, Searching D:\jdk1.6.0_01 in [C:\j2sdk1.4.2_14]
+(2007-6-18 17:18:30), Install, org.netbeans.installer.JDKSearchAction, dbg, Found Valid JDK Home ... D:\jdk1.6.0_01
+(2007-6-18 17:18:30), Install, org.netbeans.installer.JDKSearchAction, dbg, JavaSoft subkey: 1.6.0_01
+(2007-6-18 17:18:30), Install, org.netbeans.installer.JDKSearchAction, dbg, Checking JDK: D:\jdk1.6.0_01
+(2007-6-18 17:18:30), Install, org.netbeans.installer.JDKSearchAction, dbg, Checking: D:\jdk1.6.0_01
+(2007-6-18 17:18:30), Install, org.netbeans.installer.JDKSearchAction, dbg, Checking: D:\jdk1.6.0_01\jre
+(2007-6-18 17:18:30), Install, org.netbeans.installer.JDKSearchAction, dbg, Exists: D:\jdk1.6.0_01\jre
+(2007-6-18 17:18:30), Install, org.netbeans.installer.JDKSearchAction, dbg, Java version line: 'java version "1.6.0_01"'
+(2007-6-18 17:18:30), Install, org.netbeans.installer.JDKSearchAction, dbg, Adding - D:\jdk1.6.0_01
+(2007-6-18 17:18:30), Install, org.netbeans.installer.JDKSearchAction, dbg, Searching D:\jdk1.6.0_01 in [C:\j2sdk1.4.2_14, D:\jdk1.6.0_01]
+(2007-6-18 17:18:32), Install, org.netbeans.installer.JDKSelectionPanel, dbg, Checking JDK: C:\j2sdk1.4.2_14
+(2007-6-18 17:18:32), Install, org.netbeans.installer.JDKSelectionPanel, dbg, Checking: C:\j2sdk1.4.2_14
+(2007-6-18 17:18:32), Install, org.netbeans.installer.JDKSelectionPanel, dbg, Checking: C:\j2sdk1.4.2_14\jre
+(2007-6-18 17:18:32), Install, org.netbeans.installer.JDKSelectionPanel, dbg, Exists: C:\j2sdk1.4.2_14\jre
+(2007-6-18 17:18:32), Install, org.netbeans.installer.JDKSelectionPanel, dbg, Java version line: 'java version "1.4.2_14"'
+(2007-6-18 17:18:32), Install, org.netbeans.installer.JDKSelectionPanel, dbg, User Selected Java Home is below recommended JDK: C:\j2sdk1.4.2_14
+(2007-6-18 17:18:32), Install, org.netbeans.installer.JDKSelectionPanel, dbg, belowRecommendedJDK: true
+(2007-6-18 17:18:32), Install, org.netbeans.installer.JDKSelectionPanel, dbg, User Selected Java Home is below recommended JDK: C:\j2sdk1.4.2_14
+(2007-6-18 17:18:32), Install, org.netbeans.installer.JDKSelectionPanel, dbg, User Selected Java Home: C:\j2sdk1.4.2_14
+(2007-6-18 17:18:33), Install, org.netbeans.installer.StorageBuilderAction, dbg, getRequiredBytes nbInstallDir: d:\netbeans-ncre2007-5.0
+(2007-6-18 17:18:33), Install, org.netbeans.installer.StorageBuilderAction, dbg, getRequiredBytes tempPath: C:\DOCUME~1\Liang\LOCALS~1\Temp
+(2007-6-18 17:18:33), Install, org.netbeans.installer.StorageBuilderAction, dbg, Total (not necessarily on one disk when tempdir is redirected) Mbytes = 30
+(2007-6-18 17:18:33), Install, org.netbeans.installer.StorageBuilderAction, dbg, RequiredBytesTable: RequiredBytesTable: {C:\DOCUME~1\Liang\LOCALS~1\Temp	16000000
+d:\netbeans-ncre2007-5.0	16000000}
+(2007-6-18 17:18:33), Install, org.netbeans.installer.StorageBuilderAction, dbg, getRequiredBytes nbInstallDir: d:\netbeans-ncre2007-5.0
+(2007-6-18 17:18:33), Install, org.netbeans.installer.StorageBuilderAction, dbg, getRequiredBytes tempPath: C:\DOCUME~1\Liang\LOCALS~1\Temp
+(2007-6-18 17:18:33), Install, org.netbeans.installer.StorageBuilderAction, dbg, Total (not necessarily on one disk when tempdir is redirected) Mbytes = 30
+(2007-6-18 17:18:33), Install, org.netbeans.installer.StorageBuilderAction, dbg, RequiredBytesTable: RequiredBytesTable: {C:\DOCUME~1\Liang\LOCALS~1\Temp	16000000
+d:\netbeans-ncre2007-5.0	16000000}
+(2007-6-18 17:18:33), Install, org.netbeans.installer.NbSummaryPanel, dbg, queryEnter UNINSTALL summaryMessage: $L(org.netbeans.installer.Bundle, Product.displayName) 将安装在以下位置：<blockquote>d:\netbeans-ncre2007-5.0</blockquote><blockquote></blockquote>总大小：<blockquote> 104.5 MB</blockquote>
+(2007-6-18 17:18:34), Install, com.installshield.product.actions.UninstallerJVMResolution, dbg.jvm, attempting to use the current JVM
+(2007-6-18 17:18:34), Install, com.installshield.product.actions.UninstallerJVMResolution, dbg.jvm, resolved to the current jvm file: null with JVM_HOME = null
+(2007-6-18 17:18:34), Install, com.installshield.wizard.platform.win32.Win32ProductServiceImpl, dbg.install, JVM memory before installing Files (files): free=58104576 total=66715648
+(2007-6-18 17:18:34), Install, com.installshield.wizard.platform.win32.Win32ProductServiceImpl, msg1, installing Files (files)
+(2007-6-18 17:18:52), Install, com.installshield.wizard.platform.win32.Win32ProductServiceImpl, dbg.install, JVM memory after installing Files (files): free=56761632 total=66715648
+(2007-6-18 17:18:52), Install, com.installshield.wizard.platform.win32.Win32ProductServiceImpl, dbg.install, JVM memory before installing Post Install Fixup Action (fixup): free=56653720 total=66715648
+(2007-6-18 17:18:52), Install, com.installshield.wizard.platform.win32.Win32ProductServiceImpl, msg1, installing Post Install Fixup Action (fixup)
+(2007-6-18 17:18:52), Install, org.netbeans.installer.PostInstallFixupAction, dbg, install, support is com.installshield.product.ProductActionSupport@a7ae01 ...
+(2007-6-18 17:18:52), Install, org.netbeans.installer.PostInstallFixupAction, dbg, nbInstallDir is d:\netbeans-ncre2007-5.0
+(2007-6-18 17:18:52), Install, org.netbeans.installer.PostInstallFixupAction, dbg, jdkHome = C:\j2sdk1.4.2_14
+(2007-6-18 17:18:52), Install, org.netbeans.installer.PostInstallFixupAction, dbg, create file: d:\netbeans-ncre2007-5.0\nbncre5.0\var\license_accepted
+(2007-6-18 17:18:52), Install, org.netbeans.installer.PostInstallFixupAction, dbg, patching d:\netbeans-ncre2007-5.0\etc\nbncre.conf
+(2007-6-18 17:18:52), Install, org.netbeans.installer.PostInstallFixupAction, dbg, not found netbeans_jdkhome
+(2007-6-18 17:18:52), Install, org.netbeans.installer.PostInstallFixupAction, dbg, cannot find d:\netbeans-ncre2007-5.0\bin\netbeans.cmd
+(2007-6-18 17:18:52), Install, org.netbeans.installer.PostInstallFixupAction, dbg, cannot find d:\netbeans-ncre2007-5.0\bin\runideopenvms.com
+(2007-6-18 17:18:52), Install, org.netbeans.installer.PostInstallFixupAction, dbg, cannot find d:\netbeans-ncre2007-5.0\bin\macosx_launcher.dmg
+(2007-6-18 17:18:52), Install, org.netbeans.installer.PostInstallFixupAction, dbg, cannot find d:\netbeans-ncre2007-5.0\bin\runideos2.cmd
+(2007-6-18 17:18:52), Install, org.netbeans.installer.PostInstallFixupAction, dbg, cannot find d:\netbeans-ncre2007-5.0\bin\netbeans
+(2007-6-18 17:18:52), Install, org.netbeans.installer.PostInstallFixupAction, dbg, cannot find d:\netbeans-ncre2007-5.0\_uninst\nb-uninstall.template
+(2007-6-18 17:18:52), Install, com.installshield.wizard.platform.win32.Win32ProductServiceImpl, dbg.install, JVM memory after installing Post Install Fixup Action (fixup): free=56339864 total=66715648
+(2007-6-18 17:18:52), Install, com.installshield.wizard.platform.win32.Win32ProductServiceImpl, dbg.install, JVM memory before installing Desktop Icon (desktopicon): free=56147592 total=66715648
+(2007-6-18 17:18:52), Install, com.installshield.wizard.platform.win32.Win32ProductServiceImpl, msg1, installing Desktop Icon (desktopicon)
+(2007-6-18 17:18:52), Install, com.installshield.wizard.platform.win32.Win32ProductServiceImpl, dbg.install, JVM memory after installing Desktop Icon (desktopicon): free=55874776 total=66715648
+(2007-6-18 17:18:52), Install, com.installshield.wizard.platform.win32.Win32ProductServiceImpl, dbg.install, JVM memory before installing Desktop Icon (programsmenu): free=55746184 total=66715648
+(2007-6-18 17:18:52), Install, com.installshield.wizard.platform.win32.Win32ProductServiceImpl, msg1, installing Desktop Icon (programsmenu)
+(2007-6-18 17:18:52), Install, com.installshield.wizard.platform.win32.Win32ProductServiceImpl, dbg.install, JVM memory after installing Desktop Icon (programsmenu): free=55472576 total=66715648
+(2007-6-18 17:18:52), Install, com.installshield.wizard.platform.win32.Win32ProductServiceImpl, dbg.install, JVM memory before installing Files (bean45): free=55414664 total=66715648
+(2007-6-18 17:18:52), Install, com.installshield.wizard.platform.win32.Win32ProductServiceImpl, msg1, installing Files (bean45)
+(2007-6-18 17:18:52), Install, com.installshield.wizard.platform.win32.Win32ProductServiceImpl, dbg.install, JVM memory after installing Files (bean45): free=55241176 total=66715648
+(2007-6-18 17:18:52), Install, com.installshield.wizard.platform.win32.Win32ProductServiceImpl, dbg.install, JVM memory before installing Storage Builder Action (storageBuilderAction): free=55133120 total=66715648
+(2007-6-18 17:18:52), Install, com.installshield.wizard.platform.win32.Win32ProductServiceImpl, msg1, installing Storage Builder Action (storageBuilderAction)
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, nbInstallDir: d:\netbeans-ncre2007-5.0
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, uninstDir: d:\netbeans-ncre2007-5.0\_uninst
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, jdkHome: C:\j2sdk1.4.2_14
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, TempPath: C:\DOCUME~1\Liang\LOCALS~1\Temp
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, Created temporary dir for SB: C:\DOCUME~1\Liang\LOCALS~1\Temp\mdrtmpdir10
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, Created destination dir for SB: d:\netbeans-ncre2007-5.0\ide6\mdrstorage
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, getClassPath Path prefix1: d:/netbeans-ncre2007-5.0
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, getClassPath Path prefix2: file:///d:/netbeans-ncre2007-5.0/
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[0]: file:/d:/netbeans-ncre2007-5.0/ide6/modules/org-netbeans-jmi-javamodel.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[1]: file:/d:/netbeans-ncre2007-5.0/ide6/modules/org-netbeans-modules-javacore.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[2]: file:/d:/netbeans-ncre2007-5.0/platform6/modules/org-netbeans-modules-masterfs.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[3]: file:/d:/netbeans-ncre2007-5.0/_uninst/storagebuilder/storagebuilder.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[4]: file:/d:/netbeans-ncre2007-5.0/platform6/core/org-openide-filesystems.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[5]: file:/d:/netbeans-ncre2007-5.0/platform6/lib/org-openide-util.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[6]: file:/d:/netbeans-ncre2007-5.0/platform6/lib/org-openide-modules.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[7]: file:/d:/netbeans-ncre2007-5.0/platform6/modules/org-openide-actions.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[8]: file:/d:/netbeans-ncre2007-5.0/platform6/modules/org-openide-awt.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[9]: file:/d:/netbeans-ncre2007-5.0/platform6/modules/org-openide-dialogs.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[10]: file:/d:/netbeans-ncre2007-5.0/platform6/modules/org-openide-execution.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[11]: file:/d:/netbeans-ncre2007-5.0/platform6/modules/org-openide-explorer.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[12]: file:/d:/netbeans-ncre2007-5.0/platform6/modules/org-openide-io.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[13]: file:/d:/netbeans-ncre2007-5.0/platform6/modules/org-openide-loaders.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[14]: file:/d:/netbeans-ncre2007-5.0/platform6/modules/org-openide-nodes.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[15]: file:/d:/netbeans-ncre2007-5.0/platform6/modules/org-openide-options.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[16]: file:/d:/netbeans-ncre2007-5.0/platform6/modules/org-openide-text.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[17]: file:/d:/netbeans-ncre2007-5.0/platform6/modules/org-openide-windows.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[18]: file:/d:/netbeans-ncre2007-5.0/ide6/modules/org-netbeans-api-java.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[19]: file:/d:/netbeans-ncre2007-5.0/ide6/modules/javax-jmi-model.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[20]: file:/d:/netbeans-ncre2007-5.0/ide6/modules/javax-jmi-reflect.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[21]: file:/d:/netbeans-ncre2007-5.0/ide6/modules/org-netbeans-api-mdr.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[22]: file:/d:/netbeans-ncre2007-5.0/ide6/modules/org-netbeans-modules-mdr.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[23]: file:/d:/netbeans-ncre2007-5.0/ide6/modules/org-netbeans-modules-jmiutils.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[24]: file:/d:/netbeans-ncre2007-5.0/ide6/modules/org-netbeans-modules-projectapi.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[25]: file:/d:/netbeans-ncre2007-5.0/ide6/modules/org-netbeans-modules-classfile.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction, dbg, cl[26]: file:/d:/netbeans-ncre2007-5.0/ide6/modules/ext/java-parser.jar
+(2007-6-18 17:18:52), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, Starting percentageStart: 8
+(2007-6-18 17:18:53), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, installed size = 0 perc = 0
+(2007-6-18 17:18:55), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, installed size = 4096 perc = 0
+(2007-6-18 17:18:58), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, installed size = 18432 perc = 0
+(2007-6-18 17:19:00), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, installed size = 26624 perc = 0
+(2007-6-18 17:19:03), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, installed size = 995328 perc = 5
+(2007-6-18 17:19:06), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, installed size = 989184 perc = 5
+(2007-6-18 17:19:08), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, installed size = 987136 perc = 5
+(2007-6-18 17:19:10), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, installed size = 991232 perc = 5
+(2007-6-18 17:19:13), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, installed size = 1060864 perc = 6
+(2007-6-18 17:19:16), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, installed size = 1818624 perc = 10
+(2007-6-18 17:19:19), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, installed size = 1818624 perc = 10
+(2007-6-18 17:19:22), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, installed size = 1818624 perc = 10
+(2007-6-18 17:19:25), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, installed size = 1820672 perc = 10
+(2007-6-18 17:19:27), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, installed size = 1818624 perc = 10
+(2007-6-18 17:19:29), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, installed size = 1921024 perc = 11
+(2007-6-18 17:19:31), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, installed size = 1992704 perc = 11
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction, dbg, Storage Builder returned: 0
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction, dbg, Storage builder took: 40828ms
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction, dbg, in progress stop
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction, dbg, interrupting ProgressThread 
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction, dbg, ProgressThread interrupted
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, Finishing
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 18 updateCounter 73330693
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 19 updateCounter 73330694
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 20 updateCounter 73330695
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 21 updateCounter 73330696
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 22 updateCounter 73330697
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 23 updateCounter 73330698
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 24 updateCounter 73330699
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 25 updateCounter 73330700
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 26 updateCounter 73330701
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 27 updateCounter 73330702
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 28 updateCounter 73330703
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 29 updateCounter 73330704
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 30 updateCounter 73330705
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 31 updateCounter 73330706
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 32 updateCounter 73330707
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 33 updateCounter 73330708
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 34 updateCounter 73330709
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 35 updateCounter 73330710
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 36 updateCounter 73330711
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 37 updateCounter 73330712
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 38 updateCounter 73330713
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 39 updateCounter 73330714
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 40 updateCounter 73330715
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 41 updateCounter 73330716
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 42 updateCounter 73330717
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 43 updateCounter 73330718
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 44 updateCounter 73330719
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 45 updateCounter 73330720
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 46 updateCounter 73330721
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 47 updateCounter 73330722
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 48 updateCounter 73330723
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 49 updateCounter 73330724
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 50 updateCounter 73330725
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 51 updateCounter 73330726
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 52 updateCounter 73330727
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 53 updateCounter 73330728
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 54 updateCounter 73330729
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 55 updateCounter 73330730
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 56 updateCounter 73330731
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 57 updateCounter 73330732
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 58 updateCounter 73330733
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 59 updateCounter 73330734
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 60 updateCounter 73330735
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 61 updateCounter 73330736
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 62 updateCounter 73330737
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 63 updateCounter 73330738
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 64 updateCounter 73330739
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 65 updateCounter 73330740
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 66 updateCounter 73330741
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 67 updateCounter 73330742
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 68 updateCounter 73330743
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 69 updateCounter 73330744
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 70 updateCounter 73330745
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 71 updateCounter 73330746
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 72 updateCounter 73330747
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 73 updateCounter 73330748
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 74 updateCounter 73330749
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 75 updateCounter 73330750
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 76 updateCounter 73330751
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 77 updateCounter 73330752
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 78 updateCounter 73330753
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 79 updateCounter 73330754
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 80 updateCounter 73330755
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 81 updateCounter 73330756
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 82 updateCounter 73330757
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 83 updateCounter 73330758
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 84 updateCounter 73330759
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 85 updateCounter 73330760
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 86 updateCounter 73330761
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 87 updateCounter 73330762
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 88 updateCounter 73330763
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 89 updateCounter 73330764
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 90 updateCounter 73330765
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 91 updateCounter 73330766
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 92 updateCounter 73330767
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 93 updateCounter 73330768
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 94 updateCounter 73330769
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 95 updateCounter 73330770
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 96 updateCounter 73330771
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 97 updateCounter 73330772
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 98 updateCounter 73330773
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 99 updateCounter 73330774
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction$ProgressThread, dbg, percentageCompleted = 100 updateCounter 73330775
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction, dbg, active Threads -> 14
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction, dbg, Deleted temporary dir for SB: C:\DOCUME~1\Liang\LOCALS~1\Temp\mdrtmpdir10
+(2007-6-18 17:19:33), Install, org.netbeans.installer.StorageBuilderAction, dbg, Running Storage Builder took: (ms) 41437
+(2007-6-18 17:19:33), Install, com.installshield.wizard.platform.win32.Win32ProductServiceImpl, dbg.install, JVM memory after installing Storage Builder Action (storageBuilderAction): free=5599208 total=66715648
+(2007-6-18 17:19:35), Install, org.netbeans.installer.PostInstallWizardAction, dbg, uid: 35d1937569d827b124b402ff82500000
+(2007-6-18 17:19:35), Install, org.netbeans.installer.PostInstallWizardAction, dbg, Key -> Software\Microsoft\Windows\CurrentVersion\Uninstall
+(2007-6-18 17:19:35), Install, org.netbeans.installer.PostInstallWizardAction, dbg, nbInstallDir: d:\netbeans-ncre2007-5.0
+(2007-6-18 17:19:35), Install, org.netbeans.installer.PostInstallWizardAction, dbg, First match with UID keyNames[2]: 35d1937569d827b124b402ff82500000803595397 UninstallString: d:\netbeans-ncre2007-5.0\_uninst\uninstaller.exe
+(2007-6-18 17:19:35), Install, org.netbeans.installer.PostInstallWizardAction, dbg, strippedValue: d:\netbeans-ncre2007-5.0
+(2007-6-18 17:19:35), Install, org.netbeans.installer.PostInstallWizardAction, dbg, Second match with UninstallString. Modify/Add Keys.
+(2007-6-18 17:19:35), Install, org.netbeans.installer.PostInstallWizardAction, dbg, Adding value -> Software\Microsoft\Windows\CurrentVersion\Uninstall\d:\netbeans-ncre2007-5.0\bin\netbeans.exe
+(2007-6-18 17:19:35), Install, org.netbeans.installer.PostInstallWizardAction, dbg, Adding value -> Software\Microsoft\Windows\CurrentVersion\Uninstall\d:\netbeans-ncre2007-5.0
+(2007-6-18 17:19:35), Install, org.netbeans.installer.NbSummaryPanel, dbg, queryEnter exitCode: -1

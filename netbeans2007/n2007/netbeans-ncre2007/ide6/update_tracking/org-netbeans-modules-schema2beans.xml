@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.schema2beans/1">
+    <module_version install_time="1142379492483" last="true" origin="installer" specification_version="1.14.1">
+        <file crc="1868661667" name="config/Modules/org-netbeans-modules-schema2beans.xml"/>
+        <file crc="1995800276" name="modules/locale/org-netbeans-modules-schema2beans_ja.jar"/>
+        <file crc="3103750580" name="modules/locale/org-netbeans-modules-schema2beans_zh_CN.jar"/>
+        <file crc="3306317008" name="modules/org-netbeans-modules-schema2beans.jar"/>
+    </module_version>
+</module>

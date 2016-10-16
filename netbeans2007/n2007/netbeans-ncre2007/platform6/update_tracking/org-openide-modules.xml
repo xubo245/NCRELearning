@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.openide.modules">
+    <module_version install_time="1142379570001" last="true" origin="installer" specification_version="6.5.1">
+        <file crc="2237452728" name="config/ModuleAutoDeps/org-openide-modules.xml"/>
+        <file crc="2416221062" name="lib/locale/org-openide-modules_ja.jar"/>
+        <file crc="1574153732" name="lib/locale/org-openide-modules_zh_CN.jar"/>
+        <file crc="1679937452" name="lib/org-openide-modules.jar"/>
+    </module_version>
+</module>

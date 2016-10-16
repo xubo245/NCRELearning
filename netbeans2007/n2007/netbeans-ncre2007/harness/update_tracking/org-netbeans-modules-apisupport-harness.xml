@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.apisupport.harness">
+    <module_version install_time="1142379372095" last="true" origin="installer" specification_version="1.6.1">
+        <file crc="1393257231" name="README"/>
+        <file crc="2872646550" name="build.xml"/>
+        <file crc="4149546351" name="common.xml"/>
+        <file crc="3383332378" name="config/Modules/org-netbeans-modules-apisupport-harness.xml"/>
+        <file crc="4249598908" name="etc/app.clusters"/>
+        <file crc="414555069" name="etc/app.conf"/>
+        <file crc="3983072726" name="jnlp.xml"/>
+        <file crc="1372854892" name="jnlp/jnlp-launcher.jar"/>
+        <file crc="1217502346" name="launchers/app.exe"/>
+        <file crc="100211281" name="launchers/app.sh"/>
+        <file crc="3485398497" name="launchers/app_w.exe"/>
+        <file crc="3027068569" name="modules/locale/org-netbeans-modules-apisupport-harness_ja.jar"/>
+        <file crc="85352361" name="modules/locale/org-netbeans-modules-apisupport-harness_zh_CN.jar"/>
+        <file crc="3911058341" name="modules/org-netbeans-modules-apisupport-harness.jar"/>
+        <file crc="2995395083" name="run.xml"/>
+        <file crc="3268671951" name="suite.xml"/>
+        <file crc="354295664" name="tasks.jar"/>
+    </module_version>
+</module>

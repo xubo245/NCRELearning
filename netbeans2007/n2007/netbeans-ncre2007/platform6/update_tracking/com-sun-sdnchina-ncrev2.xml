@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="com.sun.sdnchina.ncrev2">
+    <module_version specification_version="1.1" origin="updater" last="true" install_time="1197753294343">
+        <file name="config/Modules/com-sun-sdnchina-ncrev2.xml" crc="2467672404"/>
+        <file name="modules/com-sun-sdnchina-ncrev2.jar" crc="1416206336"/>
+    </module_version>
+</module>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.tasklist.docscan/2">
+    <module_version install_time="1142379500084" last="true" origin="installer" specification_version="1.23.1.9.16.7">
+        <file crc="294402257" name="config/Modules/org-netbeans-modules-tasklist-docscan.xml"/>
+        <file crc="752302073" name="modules/locale/org-netbeans-modules-tasklist-docscan_ja.jar"/>
+        <file crc="450852071" name="modules/locale/org-netbeans-modules-tasklist-docscan_zh_CN.jar"/>
+        <file crc="2037496332" name="modules/org-netbeans-modules-tasklist-docscan.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,10 @@
+<?xml version='1.0'?>
+<!DOCTYPE platform PUBLIC '-//NetBeans//DTD Java PlatformDefinition 1.0//EN' 'http://www.netbeans.org/dtds/java-platformdefinition-1_0.dtd'>
+<platform name='JDK 1.4（缺省）' default='yes'>
+  <properties>
+    <property name='platform.ant.name' value='default_platform'/>
+  </properties>
+  <javadoc>
+<resource>jar:file:/C:/j2sdk1.4.2_14/doc.zip!/</resource>
+  </javadoc>
+</platform>

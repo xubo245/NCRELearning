@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.jmi.javamodel/2">
+    <module_version install_time="1142379389608" last="true" origin="installer" specification_version="1.21.1">
+        <file crc="1603725888" name="config/Modules/org-netbeans-jmi-javamodel.xml"/>
+        <file crc="3134980980" name="modules/locale/org-netbeans-jmi-javamodel_ja.jar"/>
+        <file crc="2890035152" name="modules/locale/org-netbeans-jmi-javamodel_zh_CN.jar"/>
+        <file crc="3173928559" name="modules/org-netbeans-jmi-javamodel.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.lib.cvsclient/1">
+    <module_version install_time="1142379390491" last="true" origin="installer" specification_version="1.14.1">
+        <file crc="2346510548" name="config/Modules/org-netbeans-lib-cvsclient.xml"/>
+        <file crc="4208240440" name="modules/locale/org-netbeans-lib-cvsclient_ja.jar"/>
+        <file crc="1204089681" name="modules/locale/org-netbeans-lib-cvsclient_zh_CN.jar"/>
+        <file crc="360204003" name="modules/org-netbeans-lib-cvsclient.jar"/>
+    </module_version>
+</module>

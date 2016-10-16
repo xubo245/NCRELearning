@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.java.hints/1">
+    <module_version install_time="1142379463981" last="true" origin="installer" specification_version="1.10.1.1">
+        <file crc="374997649" name="config/Modules/org-netbeans-modules-java-hints.xml"/>
+        <file crc="933572787" name="modules/locale/org-netbeans-modules-java-hints_ja.jar"/>
+        <file crc="2928805147" name="modules/locale/org-netbeans-modules-java-hints_zh_CN.jar"/>
+        <file crc="1373735554" name="modules/org-netbeans-modules-java-hints.jar"/>
+    </module_version>
+</module>

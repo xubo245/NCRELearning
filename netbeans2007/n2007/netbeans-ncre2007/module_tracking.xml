@@ -1,0 +1,2046 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tracking>
+    <module codename="org.netbeans.modules.javadoc/1" name="javadoc" nbmfilename="org-netbeans-modules-javadoc.nbm" nbmhomepage="http://javadoc.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-javadoc.xml"/>
+        <file name="modules/org-netbeans-modules-javadoc.jar"/>
+        <file name="update_tracking/org-netbeans-modules-javadoc.xml"/>
+        <file name="modules/locale/org-netbeans-modules-javadoc_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-javadoc_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.editor.mimelookup/1" name="editor/mimelookup" nbmfilename="org-netbeans-modules-editor-mimelookup.nbm" nbmhomepage="http://editor.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-editor-mimelookup.xml"/>
+        <file name="modules/org-netbeans-modules-editor-mimelookup.jar"/>
+        <file name="update_tracking/org-netbeans-modules-editor-mimelookup.xml"/>
+        <file name="modules/locale/org-netbeans-modules-editor-mimelookup_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-editor-mimelookup_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.java.examples/1" name="usersguide/j2seexamples" nbmfilename="org-netbeans-modules-java-examples.nbm" nbmhomepage="http://usersguide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-java-examples.xml"/>
+        <file name="modules/org-netbeans-modules-java-examples.jar"/>
+        <file name="update_tracking/org-netbeans-modules-java-examples.xml"/>
+        <file name="modules/locale/org-netbeans-modules-java-examples_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-java-examples_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.html/1" name="html" nbmfilename="org-netbeans-modules-html.nbm" nbmhomepage="http://html.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-html.xml"/>
+        <file name="modules/org-netbeans-modules-html.jar"/>
+        <file name="update_tracking/org-netbeans-modules-html.xml"/>
+        <file name="modules/locale/org-netbeans-modules-html_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-html_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.editor.util/1" name="editor/util" nbmfilename="org-netbeans-modules-editor-util.nbm" nbmhomepage="http://editor.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-editor-util.xml"/>
+        <file name="modules/org-netbeans-modules-editor-util.jar"/>
+        <file name="update_tracking/org-netbeans-modules-editor-util.xml"/>
+        <file name="modules/locale/org-netbeans-modules-editor-util_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-editor-util_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.jmiutils/1" name="mdr/nbjmiutils" nbmfilename="org-netbeans-modules-jmiutils.nbm" nbmhomepage="http://mdr.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-jmiutils.xml"/>
+        <file name="modules/ext/jmiutils.jar"/>
+        <file name="modules/org-netbeans-modules-jmiutils.jar"/>
+        <file name="update_tracking/org-netbeans-modules-jmiutils.xml"/>
+        <file name="modules/ext/locale/jmiutils_ja.jar"/>
+        <file name="modules/ext/locale/jmiutils_zh_CN.jar"/>
+        <file name="modules/locale/org-netbeans-modules-jmiutils_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-jmiutils_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.extbrowser/1" name="extbrowser" nbmfilename="org-netbeans-modules-extbrowser.nbm" nbmhomepage="http://extbrowser.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-extbrowser.xml"/>
+        <file name="modules/lib/extbrowser.dll"/>
+        <file name="modules/lib/extbrowser64.dll"/>
+        <file name="modules/org-netbeans-modules-extbrowser.jar"/>
+        <file name="update_tracking/org-netbeans-modules-extbrowser.xml"/>
+        <file name="modules/locale/org-netbeans-modules-extbrowser_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-extbrowser_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.debugger.jpda/2" name="debuggerjpda" nbmfilename="org-netbeans-modules-debugger-jpda.nbm" nbmhomepage="http://debuggerjpda.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-debugger-jpda.xml"/>
+        <file name="modules/org-netbeans-modules-debugger-jpda.jar"/>
+        <file name="update_tracking/org-netbeans-modules-debugger-jpda.xml"/>
+        <file name="modules/locale/org-netbeans-modules-debugger-jpda_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-debugger-jpda_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.xml.text/2" name="xml/text-edit" nbmfilename="org-netbeans-modules-xml-text.nbm" nbmhomepage="http://xml.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-xml-text.xml"/>
+        <file name="modules/org-netbeans-modules-xml-text.jar"/>
+        <file name="update_tracking/org-netbeans-modules-xml-text.xml"/>
+        <file name="modules/locale/org-netbeans-modules-xml-text_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-xml-text_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.welcome/1" name="ide/welcome" nbmfilename="org-netbeans-modules-welcome.nbm" nbmhomepage="http://ide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="nb5.0">
+        <file name="config/Modules/org-netbeans-modules-welcome.xml"/>
+        <file name="docs/CustomerDetail.java"/>
+        <file name="docs/CustomerFacadeBean.java"/>
+        <file name="docs/images/01_gb_ui.png"/>
+        <file name="docs/images/02_add_panels_1.png"/>
+        <file name="docs/images/02_add_panels_2.png"/>
+        <file name="docs/images/02_add_panels_3.png"/>
+        <file name="docs/images/02_add_panels_4.png"/>
+        <file name="docs/images/02_add_panels_5.png"/>
+        <file name="docs/images/03_indy_add_1.png"/>
+        <file name="docs/images/03_indy_add_2.png"/>
+        <file name="docs/images/03_indy_add_3.png"/>
+        <file name="docs/images/04_multi-add_1.png"/>
+        <file name="docs/images/04_multi-add_2.png"/>
+        <file name="docs/images/05_insert_1.png"/>
+        <file name="docs/images/05_insert_2.png"/>
+        <file name="docs/images/06_align_1.png"/>
+        <file name="docs/images/06_align_2.png"/>
+        <file name="docs/images/06_align_3.png"/>
+        <file name="docs/images/07_indent_1.png"/>
+        <file name="docs/images/07_indent_2.png"/>
+        <file name="docs/images/07_indent_3.png"/>
+        <file name="docs/images/08_preview_gui.png"/>
+        <file name="docs/images/Matisse.png"/>
+        <file name="docs/images/Matisse_305x158.png"/>
+        <file name="docs/images/align_r.png"/>
+        <file name="docs/images/anagram-game1.png"/>
+        <file name="docs/images/anagram-game2.png"/>
+        <file name="docs/images/anagram-game3.png"/>
+        <file name="docs/images/app-server.png"/>
+        <file name="docs/images/background.png"/>
+        <file name="docs/images/banner-left.png"/>
+        <file name="docs/images/banner-right.png"/>
+        <file name="docs/images/blue.png"/>
+        <file name="docs/images/buttons_1.png"/>
+        <file name="docs/images/buttons_2.png"/>
+        <file name="docs/images/buttons_4.png"/>
+        <file name="docs/images/buttons_6.png"/>
+        <file name="docs/images/database.png"/>
+        <file name="docs/images/debugging_305x204.png"/>
+        <file name="docs/images/deployed-web-client1.png"/>
+        <file name="docs/images/deployed-web-client2.png"/>
+        <file name="docs/images/down-left.png"/>
+        <file name="docs/images/down-right.png"/>
+        <file name="docs/images/errorstripe.png"/>
+        <file name="docs/images/errorstripe_305x223.png"/>
+        <file name="docs/images/flash_demo_button_med.gif"/>
+        <file name="docs/images/freeproj_both.png"/>
+        <file name="docs/images/gui-registration.png"/>
+        <file name="docs/images/initial-projects-window.png"/>
+        <file name="docs/images/invoke-my-first-action-button.png"/>
+        <file name="docs/images/invoke-my-first-action.png"/>
+        <file name="docs/images/j2ee-blueprint-projects.jpg"/>
+        <file name="docs/images/joption-pane.png"/>
+        <file name="docs/images/open_ant_project1_web.png"/>
+        <file name="docs/images/open_ant_project2_web.png"/>
+        <file name="docs/images/palette.png"/>
+        <file name="docs/images/project-view.png"/>
+        <file name="docs/images/projprops.png"/>
+        <file name="docs/images/red-underline.png"/>
+        <file name="docs/images/result1.png"/>
+        <file name="docs/images/result2.png"/>
+        <file name="docs/images/servers-in-50.png"/>
+        <file name="docs/images/servlet.png"/>
+        <file name="docs/images/spacer.png"/>
+        <file name="docs/images/standproj_both.png"/>
+        <file name="docs/images/test_form.png"/>
+        <file name="docs/images/tip.gif"/>
+        <file name="docs/images/troubleshooting1.png"/>
+        <file name="docs/images/troubleshooting2.png"/>
+        <file name="docs/images/up-left.png"/>
+        <file name="docs/images/up-right.png"/>
+        <file name="docs/images/versioning_305_128.png"/>
+        <file name="docs/images/webmodule.gif"/>
+        <file name="docs/images/websvc-50.png"/>
+        <file name="docs/images/websvc-50_305x91.png"/>
+        <file name="docs/images/winexplorer.png"/>
+        <file name="docs/import_j2ee.html"/>
+        <file name="docs/import_j2se.html"/>
+        <file name="docs/import_j2se_details.html"/>
+        <file name="docs/import_web.html"/>
+        <file name="docs/netbeans.css"/>
+        <file name="docs/quickstart-gui.html"/>
+        <file name="docs/quickstart-j2ee.html"/>
+        <file name="docs/quickstart-nbm.html"/>
+        <file name="docs/quickstart-webapps.html"/>
+        <file name="docs/quickstart-webservice-client.html"/>
+        <file name="docs/quickstart-webservice.html"/>
+        <file name="docs/quickstart.html"/>
+        <file name="docs/quickstart_jump.html"/>
+        <file name="docs/script.sql"/>
+        <file name="docs/whatsnew.html"/>
+        <file name="modules/org-netbeans-modules-welcome.jar"/>
+        <file name="update_tracking/org-netbeans-modules-welcome.xml"/>
+        <file name="modules/locale/org-netbeans-modules-welcome_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-welcome_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.j2ee.ejbfreeform" name="j2ee/ejbfreeform" nbmfilename="org-netbeans-modules-j2ee-ejbfreeform.nbm" nbmhomepage="http://j2ee.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-j2ee-ejbfreeform.xml"/>
+        <file name="modules/org-netbeans-modules-j2ee-ejbfreeform.jar"/>
+        <file name="update_tracking/org-netbeans-modules-j2ee-ejbfreeform.xml"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-ejbfreeform_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-ejbfreeform_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.api.progress/1" name="core/progress" nbmfilename="org-netbeans-api-progress.nbm" nbmhomepage="http://core.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-netbeans-api-progress.xml"/>
+        <file name="modules/org-netbeans-api-progress.jar"/>
+        <file name="update_tracking/org-netbeans-api-progress.xml"/>
+        <file name="modules/locale/org-netbeans-api-progress_ja.jar"/>
+        <file name="modules/locale/org-netbeans-api-progress_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.utilities.project/1" name="utilities/project" nbmfilename="org-netbeans-modules-utilities-project.nbm" nbmhomepage="http://utilities.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-utilities-project.xml"/>
+        <file name="modules/org-netbeans-modules-utilities-project.jar"/>
+        <file name="update_tracking/org-netbeans-modules-utilities-project.xml"/>
+        <file name="modules/locale/org-netbeans-modules-utilities-project_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-utilities-project_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.ant.browsetask" name="ant/browsetask" nbmfilename="org-netbeans-modules-ant-browsetask.nbm" nbmhomepage="http://ant.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="ant/nblib/org-netbeans-modules-ant-browsetask.jar"/>
+        <file name="config/Modules/org-netbeans-modules-ant-browsetask.xml"/>
+        <file name="modules/org-netbeans-modules-ant-browsetask.jar"/>
+        <file name="update_tracking/org-netbeans-modules-ant-browsetask.xml"/>
+        <file name="modules/locale/org-netbeans-modules-ant-browsetask_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-ant-browsetask_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.editor.errorstripe.api/1" name="editor/errorstripe/api" nbmfilename="org-netbeans-modules-editor-errorstripe-api.nbm" nbmhomepage="http://editor.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-editor-errorstripe-api.xml"/>
+        <file name="modules/org-netbeans-modules-editor-errorstripe-api.jar"/>
+        <file name="update_tracking/org-netbeans-modules-editor-errorstripe-api.xml"/>
+        <file name="modules/locale/org-netbeans-modules-editor-errorstripe-api_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-editor-errorstripe-api_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.libs.jsch/1" name="libs/jsch" nbmfilename="org-netbeans-libs-jsch.nbm" nbmhomepage="http://libs.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-libs-jsch.xml"/>
+        <file name="modules/ext/jsch-0.1.24.jar"/>
+        <file name="modules/org-netbeans-libs-jsch.jar"/>
+        <file name="update_tracking/org-netbeans-libs-jsch.xml"/>
+        <file name="modules/locale/org-netbeans-libs-jsch_ja.jar"/>
+        <file name="modules/locale/org-netbeans-libs-jsch_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.websvc.clientapi" name="websvc/clientapi" nbmfilename="org-netbeans-modules-websvc-clientapi.nbm" nbmhomepage="http://websvc.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-websvc-clientapi.xml"/>
+        <file name="modules/org-netbeans-modules-websvc-clientapi.jar"/>
+        <file name="update_tracking/org-netbeans-modules-websvc-clientapi.xml"/>
+        <file name="modules/locale/org-netbeans-modules-websvc-clientapi_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-websvc-clientapi_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.classfile/1" name="classfile" nbmfilename="org-netbeans-modules-classfile.nbm" nbmhomepage="http://classfile.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-classfile.xml"/>
+        <file name="modules/org-netbeans-modules-classfile.jar"/>
+        <file name="update_tracking/org-netbeans-modules-classfile.xml"/>
+        <file name="modules/locale/org-netbeans-modules-classfile_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-classfile_zh_CN.jar"/>
+    </module>
+    <module codename="org.apache.tools.ant.module/3" name="ant" nbmfilename="org-apache-tools-ant-module.nbm" nbmhomepage="http://ant.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="ant/bin/ant"/>
+        <file name="ant/bin/ant.bat"/>
+        <file name="ant/bin/ant.cmd"/>
+        <file name="ant/bin/antRun"/>
+        <file name="ant/bin/antRun.bat"/>
+        <file name="ant/bin/antRun.pl"/>
+        <file name="ant/bin/antenv.cmd"/>
+        <file name="ant/bin/complete-ant-cmd.pl"/>
+        <file name="ant/bin/envset.cmd"/>
+        <file name="ant/bin/lcp.bat"/>
+        <file name="ant/bin/runant.pl"/>
+        <file name="ant/bin/runant.py"/>
+        <file name="ant/bin/runrc.cmd"/>
+        <file name="ant/etc/ant-bootstrap.jar"/>
+        <file name="ant/etc/changelog.xsl"/>
+        <file name="ant/etc/checkstyle/checkstyle-frames.xsl"/>
+        <file name="ant/etc/checkstyle/checkstyle-text.xsl"/>
+        <file name="ant/etc/checkstyle/checkstyle-xdoc.xsl"/>
+        <file name="ant/etc/coverage-frames.xsl"/>
+        <file name="ant/etc/jdepend-frames.xsl"/>
+        <file name="ant/etc/jdepend.xsl"/>
+        <file name="ant/etc/junit-frames-xalan1.xsl"/>
+        <file name="ant/etc/junit-frames.xsl"/>
+        <file name="ant/etc/junit-noframes.xsl"/>
+        <file name="ant/etc/log.xsl"/>
+        <file name="ant/etc/maudit-frames.xsl"/>
+        <file name="ant/etc/mmetrics-frames.xsl"/>
+        <file name="ant/etc/tagdiff.xsl"/>
+        <file name="ant/lib/ant-antlr.jar"/>
+        <file name="ant/lib/ant-apache-bcel.jar"/>
+        <file name="ant/lib/ant-apache-bsf.jar"/>
+        <file name="ant/lib/ant-apache-log4j.jar"/>
+        <file name="ant/lib/ant-apache-oro.jar"/>
+        <file name="ant/lib/ant-apache-regexp.jar"/>
+        <file name="ant/lib/ant-apache-resolver.jar"/>
+        <file name="ant/lib/ant-commons-logging.jar"/>
+        <file name="ant/lib/ant-commons-net.jar"/>
+        <file name="ant/lib/ant-icontract.jar"/>
+        <file name="ant/lib/ant-jai.jar"/>
+        <file name="ant/lib/ant-javamail.jar"/>
+        <file name="ant/lib/ant-jdepend.jar"/>
+        <file name="ant/lib/ant-jmf.jar"/>
+        <file name="ant/lib/ant-jsch.jar"/>
+        <file name="ant/lib/ant-junit.jar"/>
+        <file name="ant/lib/ant-launcher.jar"/>
+        <file name="ant/lib/ant-netrexx.jar"/>
+        <file name="ant/lib/ant-nodeps.jar"/>
+        <file name="ant/lib/ant-starteam.jar"/>
+        <file name="ant/lib/ant-stylebook.jar"/>
+        <file name="ant/lib/ant-swing.jar"/>
+        <file name="ant/lib/ant-trax.jar"/>
+        <file name="ant/lib/ant-vaj.jar"/>
+        <file name="ant/lib/ant-weblogic.jar"/>
+        <file name="ant/lib/ant-xalan1.jar"/>
+        <file name="ant/lib/ant-xslp.jar"/>
+        <file name="ant/lib/ant.jar"/>
+        <file name="ant/nblib/bridge.jar"/>
+        <file name="config/Modules/org-apache-tools-ant-module.xml"/>
+        <file name="modules/org-apache-tools-ant-module.jar"/>
+        <file name="update_tracking/org-apache-tools-ant-module.xml"/>
+        <file name="ant/nblib/locale/bridge_ja.jar"/>
+        <file name="ant/nblib/locale/bridge_zh_CN.jar"/>
+        <file name="modules/locale/org-apache-tools-ant-module_ja.jar"/>
+        <file name="modules/locale/org-apache-tools-ant-module_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.properties.syntax/1" name="properties/syntax" nbmfilename="org-netbeans-modules-properties-syntax.nbm" nbmhomepage="http://properties.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-properties-syntax.xml"/>
+        <file name="modules/org-netbeans-modules-properties-syntax.jar"/>
+        <file name="update_tracking/org-netbeans-modules-properties-syntax.xml"/>
+        <file name="modules/locale/org-netbeans-modules-properties-syntax_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-properties-syntax_zh_CN.jar"/>
+    </module>
+    <module codename="org.jdesktop.layout/1" name="libs/swing-layout" nbmfilename="org-jdesktop-layout.nbm" nbmhomepage="http://libs.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-jdesktop-layout.xml"/>
+        <file name="docs/swing-layout-1.0-doc.zip"/>
+        <file name="modules/ext/swing-layout-1.0.jar"/>
+        <file name="modules/org-jdesktop-layout.jar"/>
+        <file name="update_tracking/org-jdesktop-layout.xml"/>
+        <file name="modules/locale/org-jdesktop-layout_ja.jar"/>
+        <file name="modules/locale/org-jdesktop-layout_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.editor.settings.storage/1" name="editor/settings/storage" nbmfilename="org-netbeans-modules-editor-settings-storage.nbm" nbmhomepage="http://editor.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-editor-settings-storage.xml"/>
+        <file name="modules/org-netbeans-modules-editor-settings-storage.jar"/>
+        <file name="update_tracking/org-netbeans-modules-editor-settings-storage.xml"/>
+        <file name="modules/locale/org-netbeans-modules-editor-settings-storage_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-editor-settings-storage_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.ide.branding/1" name="ide/branding" nbmfilename="" nbmhomepage="" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="" nbmreleasedate="" path="nb5.0">
+        <file name="config/Modules/org-netbeans-modules-ide-branding.xml"/>
+        <file name="core/locale/core_nb.jar"/>
+        <file name="modules/ext/locale/updater_nb.jar"/>
+        <file name="modules/locale/org-netbeans-core-windows_nb.jar"/>
+        <file name="modules/locale/org-netbeans-core_nb.jar"/>
+        <file name="modules/org-netbeans-modules-ide-branding.jar"/>
+        <file name="nbos2icons.zip"/>
+        <file name="netbeans.icns"/>
+        <file name="netbeans.png"/>
+        <file name="shortcuts.pdf"/>
+        <file name="update_tracking/org-netbeans-modules-ide-branding.xml"/>
+        <file name="core/locale/core_nb_ja.jar"/>
+        <file name="core/locale/core_nb_zh_CN.jar"/>
+        <file name="modules/ext/locale/updater_nb_ja.jar"/>
+        <file name="modules/ext/locale/updater_nb_zh_CN.jar"/>
+        <file name="modules/locale/org-netbeans-core-windows_nb_ja.jar"/>
+        <file name="modules/locale/org-netbeans-core-windows_nb_zh_CN.jar"/>
+        <file name="modules/locale/org-netbeans-core_nb_ja.jar"/>
+        <file name="modules/locale/org-netbeans-core_nb_zh_CN.jar"/>
+        <file name="modules/locale/org-netbeans-modules-ide-branding_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-ide-branding_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.schema2beans/1" name="schema2beans/rt" nbmfilename="org-netbeans-modules-schema2beans.nbm" nbmhomepage="http://schema2beans.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-schema2beans.xml"/>
+        <file name="modules/org-netbeans-modules-schema2beans.jar"/>
+        <file name="update_tracking/org-netbeans-modules-schema2beans.xml"/>
+        <file name="modules/locale/org-netbeans-modules-schema2beans_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-schema2beans_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.queries/1" name="projects/queries" nbmfilename="org-netbeans-modules-queries.nbm" nbmhomepage="http://projects.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/ModuleAutoDeps/org-netbeans-modules-queries.xml"/>
+        <file name="config/Modules/org-netbeans-modules-queries.xml"/>
+        <file name="modules/org-netbeans-modules-queries.jar"/>
+        <file name="update_tracking/org-netbeans-modules-queries.xml"/>
+        <file name="modules/locale/org-netbeans-modules-queries_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-queries_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.apisupport.feedreader/1" name="apisupport/samples/feedreader-sample-ui" nbmfilename="org-netbeans-modules-apisupport-feedreader.nbm" nbmhomepage="http://apisupport.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-apisupport-feedreader.xml"/>
+        <file name="modules/org-netbeans-modules-apisupport-feedreader.jar"/>
+        <file name="update_tracking/org-netbeans-modules-apisupport-feedreader.xml"/>
+        <file name="modules/locale/org-netbeans-modules-apisupport-feedreader_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-apisupport-feedreader_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.core/2" name="core" nbmfilename="org-netbeans-core.nbm" nbmhomepage="http://core.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="DISTRIBUTION.txt"/>
+        <file name="LICENSE.txt"/>
+        <file name="THIRDPARTYLICENSEREADME.txt"/>
+        <file name="config/ModuleAutoDeps/org-netbeans-core.xml"/>
+        <file name="config/Modules/org-netbeans-core.xml"/>
+        <file name="core/ide.ks"/>
+        <file name="modules/org-netbeans-core.jar"/>
+        <file name="update_tracking/org-netbeans-core.xml"/>
+        <file name="modules/locale/org-netbeans-core_ja.jar"/>
+        <file name="modules/locale/org-netbeans-core_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.api.mdr/1" name="mdr/mdrapi" nbmfilename="org-netbeans-api-mdr.nbm" nbmhomepage="http://mdr.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-api-mdr.xml"/>
+        <file name="modules/org-netbeans-api-mdr.jar"/>
+        <file name="update_tracking/org-netbeans-api-mdr.xml"/>
+        <file name="modules/locale/org-netbeans-api-mdr_ja.jar"/>
+        <file name="modules/locale/org-netbeans-api-mdr_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.libs.formlayout/1" name="libs/form-layout" nbmfilename="org-netbeans-libs-formlayout.nbm" nbmhomepage="http://libs.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-libs-formlayout.xml"/>
+        <file name="modules/ext/forms-1.0.5.jar"/>
+        <file name="modules/org-netbeans-libs-formlayout.jar"/>
+        <file name="update_tracking/org-netbeans-libs-formlayout.xml"/>
+        <file name="modules/locale/org-netbeans-libs-formlayout_ja.jar"/>
+        <file name="modules/locale/org-netbeans-libs-formlayout_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.editor.lib/1" name="editor/lib" nbmfilename="org-netbeans-modules-editor-lib.nbm" nbmhomepage="http://editor.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-editor-lib.xml"/>
+        <file name="modules/org-netbeans-modules-editor-lib.jar"/>
+        <file name="update_tracking/org-netbeans-modules-editor-lib.xml"/>
+        <file name="modules/locale/org-netbeans-modules-editor-lib_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-editor-lib_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.junit/2" name="junit" nbmfilename="org-netbeans-modules-junit.nbm" nbmhomepage="http://junit.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-junit.xml"/>
+        <file name="docs/junit-3.8.1-api.zip"/>
+        <file name="modules/ext/junit-3.8.1.jar"/>
+        <file name="modules/org-netbeans-modules-junit.jar"/>
+        <file name="update_tracking/org-netbeans-modules-junit.xml"/>
+        <file name="modules/locale/org-netbeans-modules-junit_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-junit_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.applemenu/1" name="ide/applemenu" nbmfilename="org-netbeans-modules-applemenu.nbm" nbmhomepage="http://ide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="true" nbmreleasedate="" path="nb5.0">
+        <file name="config/Modules/org-netbeans-modules-applemenu.xml"/>
+        <file name="modules/org-netbeans-modules-applemenu.jar"/>
+        <file name="update_tracking/org-netbeans-modules-applemenu.xml"/>
+        <file name="modules/locale/org-netbeans-modules-applemenu_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-applemenu_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.i18n.form/2" name="i18n/form" nbmfilename="org-netbeans-modules-i18n-form.nbm" nbmhomepage="http://i18n.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-i18n-form.xml"/>
+        <file name="modules/org-netbeans-modules-i18n-form.jar"/>
+        <file name="update_tracking/org-netbeans-modules-i18n-form.xml"/>
+        <file name="modules/locale/org-netbeans-modules-i18n-form_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-i18n-form_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.j2ee.refactoring/1" name="j2ee/refactoring" nbmfilename="org-netbeans-modules-j2ee-refactoring.nbm" nbmhomepage="http://j2ee.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-j2ee-refactoring.xml"/>
+        <file name="modules/org-netbeans-modules-j2ee-refactoring.jar"/>
+        <file name="update_tracking/org-netbeans-modules-j2ee-refactoring.xml"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-refactoring_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-refactoring_zh_CN.jar"/>
+    </module>
+    <module codename="org.openide.nodes" name="openide/nodes" nbmfilename="org-openide-nodes.nbm" nbmhomepage="http://openide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-openide-nodes.xml"/>
+        <file name="modules/org-openide-nodes.jar"/>
+        <file name="update_tracking/org-openide-nodes.xml"/>
+        <file name="modules/locale/org-openide-nodes_ja.jar"/>
+        <file name="modules/locale/org-openide-nodes_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.beans/1" name="beans" nbmfilename="org-netbeans-modules-beans.nbm" nbmhomepage="http://beans.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-beans.xml"/>
+        <file name="modules/org-netbeans-modules-beans.jar"/>
+        <file name="update_tracking/org-netbeans-modules-beans.xml"/>
+        <file name="modules/locale/org-netbeans-modules-beans_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-beans_zh_CN.jar"/>
+    </module>
+    <module codename="javax.jmi.model/1" name="mdr/mof" nbmfilename="javax-jmi-model.nbm" nbmhomepage="http://mdr.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/javax-jmi-model.xml"/>
+        <file name="modules/ext/mof.jar"/>
+        <file name="modules/javax-jmi-model.jar"/>
+        <file name="update_tracking/javax-jmi-model.xml"/>
+        <file name="modules/locale/javax-jmi-model_ja.jar"/>
+        <file name="modules/locale/javax-jmi-model_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.core.multiview/1" name="core/multiview" nbmfilename="org-netbeans-core-multiview.nbm" nbmhomepage="http://core.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-netbeans-core-multiview.xml"/>
+        <file name="modules/org-netbeans-core-multiview.jar"/>
+        <file name="update_tracking/org-netbeans-core-multiview.xml"/>
+        <file name="modules/locale/org-netbeans-core-multiview_ja.jar"/>
+        <file name="modules/locale/org-netbeans-core-multiview_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.api.java/1" name="java/api" nbmfilename="org-netbeans-api-java.nbm" nbmhomepage="http://java.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-api-java.xml"/>
+        <file name="modules/org-netbeans-api-java.jar"/>
+        <file name="update_tracking/org-netbeans-api-java.xml"/>
+        <file name="modules/locale/org-netbeans-api-java_ja.jar"/>
+        <file name="modules/locale/org-netbeans-api-java_zh_CN.jar"/>
+    </module>
+    <module codename="org.openide.windows" name="openide/windows" nbmfilename="org-openide-windows.nbm" nbmhomepage="http://openide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-openide-windows.xml"/>
+        <file name="modules/org-openide-windows.jar"/>
+        <file name="update_tracking/org-openide-windows.xml"/>
+        <file name="modules/locale/org-openide-windows_ja.jar"/>
+        <file name="modules/locale/org-openide-windows_zh_CN.jar"/>
+    </module>
+    <module codename="org.openide.src" name="java/srcmodel" nbmfilename="org-openide-src.nbm" nbmhomepage="http://java.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-openide-src.xml"/>
+        <file name="modules/org-openide-src.jar"/>
+        <file name="update_tracking/org-openide-src.xml"/>
+        <file name="modules/locale/org-openide-src_ja.jar"/>
+        <file name="modules/locale/org-openide-src_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.project.ant/1" name="ant/project" nbmfilename="org-netbeans-modules-project-ant.nbm" nbmhomepage="http://ant.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/ModuleAutoDeps/org-netbeans-modules-project-ant.xml"/>
+        <file name="config/Modules/org-netbeans-modules-project-ant.xml"/>
+        <file name="modules/org-netbeans-modules-project-ant.jar"/>
+        <file name="update_tracking/org-netbeans-modules-project-ant.xml"/>
+        <file name="modules/locale/org-netbeans-modules-project-ant_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-project-ant_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.j2ee.sun.dd/1" name="serverplugins/sun/sunddapi" nbmfilename="org-netbeans-modules-j2ee-sun-dd.nbm" nbmhomepage="http://serverplugins.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-j2ee-sun-dd.xml"/>
+        <file name="modules/org-netbeans-modules-j2ee-sun-dd.jar"/>
+        <file name="update_tracking/org-netbeans-modules-j2ee-sun-dd.xml"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-sun-dd_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-sun-dd_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.servletapi/1" name="httpserver/servletapi" nbmfilename="org-netbeans-modules-servletapi.nbm" nbmhomepage="http://httpserver.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-servletapi.xml"/>
+        <file name="modules/ext/servlet-2.2.jar"/>
+        <file name="modules/org-netbeans-modules-servletapi.jar"/>
+        <file name="update_tracking/org-netbeans-modules-servletapi.xml"/>
+        <file name="modules/locale/org-netbeans-modules-servletapi_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-servletapi_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.java.navigation/1" name="java/navigation" nbmfilename="org-netbeans-modules-java-navigation.nbm" nbmhomepage="http://java.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-java-navigation.xml"/>
+        <file name="modules/org-netbeans-modules-java-navigation.jar"/>
+        <file name="update_tracking/org-netbeans-modules-java-navigation.xml"/>
+        <file name="modules/locale/org-netbeans-modules-java-navigation_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-java-navigation_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.httpserver/2" name="httpserver" nbmfilename="org-netbeans-modules-httpserver.nbm" nbmhomepage="http://httpserver.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-httpserver.xml"/>
+        <file name="modules/ext/webserver.jar"/>
+        <file name="modules/org-netbeans-modules-httpserver.jar"/>
+        <file name="update_tracking/org-netbeans-modules-httpserver.xml"/>
+        <file name="modules/locale/org-netbeans-modules-httpserver_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-httpserver_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.editor/3" name="editor" nbmfilename="org-netbeans-modules-editor.nbm" nbmhomepage="http://editor.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-editor.xml"/>
+        <file name="modules/org-netbeans-modules-editor.jar"/>
+        <file name="update_tracking/org-netbeans-modules-editor.xml"/>
+        <file name="modules/locale/org-netbeans-modules-editor_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-editor_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.j2ee.ddloaders/1" name="j2ee/ddloaders" nbmfilename="org-netbeans-modules-j2ee-ddloaders.nbm" nbmhomepage="http://j2ee.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-j2ee-ddloaders.xml"/>
+        <file name="modules/org-netbeans-modules-j2ee-ddloaders.jar"/>
+        <file name="update_tracking/org-netbeans-modules-j2ee-ddloaders.xml"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-ddloaders_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-ddloaders_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.java.j2seproject" name="java/j2seproject" nbmfilename="org-netbeans-modules-java-j2seproject.nbm" nbmhomepage="http://java.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="ant/extra/org-netbeans-modules-java-j2seproject-copylibstask.jar"/>
+        <file name="config/Modules/org-netbeans-modules-java-j2seproject.xml"/>
+        <file name="modules/org-netbeans-modules-java-j2seproject.jar"/>
+        <file name="update_tracking/org-netbeans-modules-java-j2seproject.xml"/>
+        <file name="modules/locale/org-netbeans-modules-java-j2seproject_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-java-j2seproject_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.j2ee.weblogic9/1" name="serverplugins/weblogic9" nbmfilename="org-netbeans-modules-j2ee-weblogic9.nbm" nbmhomepage="http://serverplugins.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-j2ee-weblogic9.xml"/>
+        <file name="modules/org-netbeans-modules-j2ee-weblogic9.jar"/>
+        <file name="update_tracking/org-netbeans-modules-j2ee-weblogic9.xml"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-weblogic9_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-weblogic9_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.upgrader" name="ide/launcher/upgrade" nbmfilename="org-netbeans-upgrader.nbm" nbmhomepage="http://ide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="nb5.0">
+        <file name="core/org-netbeans-upgrader.jar"/>
+        <file name="config/Modules/org-netbeans-upgrader.xml"/>
+        <file name="update_tracking/org-netbeans-upgrader.xml"/>
+        <file name="core/locale/org-netbeans-upgrader_ja.jar"/>
+        <file name="core/locale/org-netbeans-upgrader_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.spi.palette/0" name="core/palette" nbmfilename="org-netbeans-spi-palette.nbm" nbmhomepage="http://core.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-spi-palette.xml"/>
+        <file name="modules/org-netbeans-spi-palette.jar"/>
+        <file name="update_tracking/org-netbeans-spi-palette.xml"/>
+        <file name="modules/locale/org-netbeans-spi-palette_ja.jar"/>
+        <file name="modules/locale/org-netbeans-spi-palette_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.web.struts/1" name="web/struts" nbmfilename="org-netbeans-modules-web-struts.nbm" nbmhomepage="http://web.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-web-struts.xml"/>
+        <file name="docs/struts-javadoc.zip"/>
+        <file name="modules/ext/struts/antlr.jar"/>
+        <file name="modules/ext/struts/commons-beanutils.jar"/>
+        <file name="modules/ext/struts/commons-digester.jar"/>
+        <file name="modules/ext/struts/commons-fileupload.jar"/>
+        <file name="modules/ext/struts/commons-logging.jar"/>
+        <file name="modules/ext/struts/commons-validator.jar"/>
+        <file name="modules/ext/struts/jakarta-oro.jar"/>
+        <file name="modules/ext/struts/struts.jar"/>
+        <file name="modules/org-netbeans-modules-web-struts.jar"/>
+        <file name="update_tracking/org-netbeans-modules-web-struts.xml"/>
+        <file name="modules/locale/org-netbeans-modules-web-struts_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-web-struts_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.javacore/1" name="java/javacore" nbmfilename="org-netbeans-modules-javacore.nbm" nbmhomepage="http://java.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-javacore.xml"/>
+        <file name="modules/ext/gjast.jar"/>
+        <file name="modules/ext/java-parser.jar"/>
+        <file name="modules/org-netbeans-modules-javacore.jar"/>
+        <file name="update_tracking/org-netbeans-modules-javacore.xml"/>
+        <file name="modules/locale/org-netbeans-modules-javacore_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-javacore_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.autoupdate/1" name="autoupdate" nbmfilename="org-netbeans-modules-autoupdate.nbm" nbmhomepage="http://autoupdate.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-netbeans-modules-autoupdate.xml"/>
+        <file name="modules/ext/updater.jar"/>
+        <file name="modules/org-netbeans-modules-autoupdate.jar"/>
+        <file name="update_tracking/org-netbeans-modules-autoupdate.xml"/>
+        <file name="modules/ext/locale/updater_ja.jar"/>
+        <file name="modules/ext/locale/updater_zh_CN.jar"/>
+        <file name="modules/locale/org-netbeans-modules-autoupdate_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-autoupdate_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.web.monitor/1" name="monitor" nbmfilename="org-netbeans-modules-web-monitor.nbm" nbmhomepage="http://monitor.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-web-monitor.xml"/>
+        <file name="modules/docs/org-netbeans-modules-web-monitor.jar"/>
+        <file name="modules/ext/org-netbeans-modules-web-httpmonitor.jar"/>
+        <file name="modules/org-netbeans-modules-web-monitor.jar"/>
+        <file name="update_tracking/org-netbeans-modules-web-monitor.xml"/>
+        <file name="modules/docs/locale/org-netbeans-modules-web-monitor_ja.jar"/>
+        <file name="modules/docs/locale/org-netbeans-modules-web-monitor_zh_CN.jar"/>
+        <file name="modules/ext/locale/org-netbeans-modules-web-httpmonitor_ja.jar"/>
+        <file name="modules/ext/locale/org-netbeans-modules-web-httpmonitor_zh_CN.jar"/>
+        <file name="modules/locale/org-netbeans-modules-web-monitor_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-web-monitor_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.jmxri/1" name="serverplugins/jmxri" nbmfilename="org-netbeans-modules-jmxri.nbm" nbmhomepage="http://serverplugins.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-jmxri.xml"/>
+        <file name="modules/ext/jmxri.jar"/>
+        <file name="modules/org-netbeans-modules-jmxri.jar"/>
+        <file name="update_tracking/org-netbeans-modules-jmxri.xml"/>
+        <file name="modules/locale/org-netbeans-modules-jmxri_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-jmxri_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.websvc.websvcapi" name="websvc/websvcapi" nbmfilename="org-netbeans-modules-websvc-websvcapi.nbm" nbmhomepage="http://websvc.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-websvc-websvcapi.xml"/>
+        <file name="modules/org-netbeans-modules-websvc-websvcapi.jar"/>
+        <file name="update_tracking/org-netbeans-modules-websvc-websvcapi.xml"/>
+        <file name="modules/locale/org-netbeans-modules-websvc-websvcapi_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-websvc-websvcapi_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.mdr/1" name="mdr/module" nbmfilename="org-netbeans-modules-mdr.nbm" nbmhomepage="http://mdr.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-mdr.xml"/>
+        <file name="modules/ext/mdr.jar"/>
+        <file name="modules/org-netbeans-modules-mdr.jar"/>
+        <file name="update_tracking/org-netbeans-modules-mdr.xml"/>
+        <file name="modules/locale/org-netbeans-modules-mdr_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-mdr_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.ant.debugger/1" name="ant/debugger" nbmfilename="org-netbeans-modules-ant-debugger.nbm" nbmhomepage="http://ant.netbeans.org/debugger.html" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-ant-debugger.xml"/>
+        <file name="modules/org-netbeans-modules-ant-debugger.jar"/>
+        <file name="update_tracking/org-netbeans-modules-ant-debugger.xml"/>
+        <file name="modules/locale/org-netbeans-modules-ant-debugger_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-ant-debugger_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.projectapi/1" name="projects/projectapi" nbmfilename="org-netbeans-modules-projectapi.nbm" nbmhomepage="http://projects.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/ModuleAutoDeps/org-netbeans-modules-projectapi.xml"/>
+        <file name="config/Modules/org-netbeans-modules-projectapi.xml"/>
+        <file name="modules/org-netbeans-modules-projectapi.jar"/>
+        <file name="update_tracking/org-netbeans-modules-projectapi.xml"/>
+        <file name="modules/locale/org-netbeans-modules-projectapi_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-projectapi_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.project.libraries/1" name="projects/libraries" nbmfilename="org-netbeans-modules-project-libraries.nbm" nbmhomepage="http://projects.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/ModuleAutoDeps/org-netbeans-modules-project-libraries.xml"/>
+        <file name="config/Modules/org-netbeans-modules-project-libraries.xml"/>
+        <file name="modules/org-netbeans-modules-project-libraries.jar"/>
+        <file name="update_tracking/org-netbeans-modules-project-libraries.xml"/>
+        <file name="modules/locale/org-netbeans-modules-project-libraries_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-project-libraries_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.websvc.jaxrpc16/1" name="websvc/jaxrpc16" nbmfilename="org-netbeans-modules-websvc-jaxrpc16.nbm" nbmhomepage="http://websvc.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-websvc-jaxrpc16.xml"/>
+        <file name="modules/ext/jaxrpc16/FastInfoset.jar"/>
+        <file name="modules/ext/jaxrpc16/activation.jar"/>
+        <file name="modules/ext/jaxrpc16/jax-qname.jar"/>
+        <file name="modules/ext/jaxrpc16/jaxp-api.jar"/>
+        <file name="modules/ext/jaxrpc16/jaxrpc-api.jar"/>
+        <file name="modules/ext/jaxrpc16/jaxrpc-impl.jar"/>
+        <file name="modules/ext/jaxrpc16/jaxrpc-spi.jar"/>
+        <file name="modules/ext/jaxrpc16/jsr173_api.jar"/>
+        <file name="modules/ext/jaxrpc16/mail.jar"/>
+        <file name="modules/ext/jaxrpc16/relaxngDatatype.jar"/>
+        <file name="modules/ext/jaxrpc16/saaj-api.jar"/>
+        <file name="modules/ext/jaxrpc16/saaj-impl.jar"/>
+        <file name="modules/ext/jaxrpc16/xsdlib.jar"/>
+        <file name="modules/org-netbeans-modules-websvc-jaxrpc16.jar"/>
+        <file name="update_tracking/org-netbeans-modules-websvc-jaxrpc16.xml"/>
+        <file name="modules/locale/org-netbeans-modules-websvc-jaxrpc16_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-websvc-jaxrpc16_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.java.editor.lib/1" name="java/editor/lib" nbmfilename="org-netbeans-modules-java-editor-lib.nbm" nbmhomepage="http://java.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-java-editor-lib.xml"/>
+        <file name="modules/org-netbeans-modules-java-editor-lib.jar"/>
+        <file name="update_tracking/org-netbeans-modules-java-editor-lib.xml"/>
+        <file name="modules/locale/org-netbeans-modules-java-editor-lib_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-java-editor-lib_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.spi.debugger.ui/1" name="debuggercore" nbmfilename="org-netbeans-spi-debugger-ui.nbm" nbmhomepage="http://debuggercore.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-spi-debugger-ui.xml"/>
+        <file name="modules/org-netbeans-spi-debugger-ui.jar"/>
+        <file name="update_tracking/org-netbeans-spi-debugger-ui.xml"/>
+        <file name="modules/locale/org-netbeans-spi-debugger-ui_ja.jar"/>
+        <file name="modules/locale/org-netbeans-spi-debugger-ui_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.api.xml/1" name="xml/api" nbmfilename="org-netbeans-api-xml.nbm" nbmhomepage="http://xml.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-api-xml.xml"/>
+        <file name="modules/org-netbeans-api-xml.jar"/>
+        <file name="update_tracking/org-netbeans-api-xml.xml"/>
+        <file name="modules/locale/org-netbeans-api-xml_ja.jar"/>
+        <file name="modules/locale/org-netbeans-api-xml_zh_CN.jar"/>
+    </module>
+    <module codename="org.openide.filesystems" name="openide/fs" nbmfilename="org-openide-filesystems.nbm" nbmhomepage="http://openide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="core/org-openide-filesystems.jar"/>
+        <file name="config/Modules/org-openide-filesystems.xml"/>
+        <file name="update_tracking/org-openide-filesystems.xml"/>
+        <file name="core/locale/org-openide-filesystems_ja.jar"/>
+        <file name="core/locale/org-openide-filesystems_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.editor.codetemplates/1" name="editor/codetemplates" nbmfilename="org-netbeans-modules-editor-codetemplates.nbm" nbmhomepage="http://editor.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-editor-codetemplates.xml"/>
+        <file name="modules/org-netbeans-modules-editor-codetemplates.jar"/>
+        <file name="update_tracking/org-netbeans-modules-editor-codetemplates.xml"/>
+        <file name="modules/locale/org-netbeans-modules-editor-codetemplates_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-editor-codetemplates_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.j2ee.debug/1" name="j2ee/debug" nbmfilename="org-netbeans-modules-j2ee-debug.nbm" nbmhomepage="http://j2ee.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-j2ee-debug.xml"/>
+        <file name="modules/org-netbeans-modules-j2ee-debug.jar"/>
+        <file name="update_tracking/org-netbeans-modules-j2ee-debug.xml"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-debug_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-debug_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.updatecenters/1" name="ide/updatecenters" nbmfilename="org-netbeans-modules-updatecenters.nbm" nbmhomepage="http://ide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="nb5.0">
+        <file name="config/Modules/org-netbeans-modules-updatecenters.xml"/>
+        <file name="modules/org-netbeans-modules-updatecenters.jar"/>
+        <file name="update_tracking/org-netbeans-modules-updatecenters.xml"/>
+        <file name="modules/locale/org-netbeans-modules-updatecenters_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-updatecenters_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.servletapi24/1" name="web/servletapi24" nbmfilename="org-netbeans-modules-servletapi24.nbm" nbmhomepage="http://web.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-servletapi24.xml"/>
+        <file name="modules/ext/jsp-api-2.0.jar"/>
+        <file name="modules/ext/servlet-api-2.4.jar"/>
+        <file name="modules/org-netbeans-modules-servletapi24.jar"/>
+        <file name="update_tracking/org-netbeans-modules-servletapi24.xml"/>
+        <file name="modules/locale/org-netbeans-modules-servletapi24_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-servletapi24_zh_CN.jar"/>
+    </module>
+    <module codename="org.openide.io" name="openide/io" nbmfilename="org-openide-io.nbm" nbmhomepage="http://openide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-openide-io.xml"/>
+        <file name="modules/org-openide-io.jar"/>
+        <file name="update_tracking/org-openide-io.xml"/>
+        <file name="modules/locale/org-openide-io_ja.jar"/>
+        <file name="modules/locale/org-openide-io_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.websvc.dev/1" name="websvc/dev" nbmfilename="org-netbeans-modules-websvc-dev.nbm" nbmhomepage="http://websvc.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-websvc-dev.xml"/>
+        <file name="modules/org-netbeans-modules-websvc-dev.jar"/>
+        <file name="update_tracking/org-netbeans-modules-websvc-dev.xml"/>
+        <file name="modules/locale/org-netbeans-modules-websvc-dev_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-websvc-dev_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.j2ee.sun.appsrv81/1" name="serverplugins/sun/appsrv81" nbmfilename="org-netbeans-modules-j2ee-sun-appsrv81.nbm" nbmhomepage="http://serverplugins.netbeans.org/" nbmisglobal="" nbmmoduleauthor="Sun" nbmneedsrestart="true" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-j2ee-sun-appsrv81.xml"/>
+        <file name="modules/docs/org-netbeans-modules-j2ee-sun-appsrv81.jar"/>
+        <file name="modules/ext/appsrvbridge.jar"/>
+        <file name="modules/org-netbeans-modules-j2ee-sun-appsrv81.jar"/>
+        <file name="update_tracking/org-netbeans-modules-j2ee-sun-appsrv81.xml"/>
+        <file name="modules/docs/locale/org-netbeans-modules-j2ee-sun-appsrv81_ja.jar"/>
+        <file name="modules/docs/locale/org-netbeans-modules-j2ee-sun-appsrv81_zh_CN.jar"/>
+        <file name="modules/ext/locale/appsrvbridge_ja.jar"/>
+        <file name="modules/ext/locale/appsrvbridge_zh_CN.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-sun-appsrv81_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-sun-appsrv81_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.web.project" name="web/project" nbmfilename="org-netbeans-modules-web-project.nbm" nbmhomepage="http://web.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="ant/extra/copyfiles.jar"/>
+        <file name="ant/sources/org/netbeans/modules/web/project/ant/CopyFiles.java"/>
+        <file name="ant/sources/org/netbeans/modules/web/project/ant/JspC.java"/>
+        <file name="ant/sources/org/netbeans/modules/web/project/ant/JspCSingle.java"/>
+        <file name="config/Modules/org-netbeans-modules-web-project.xml"/>
+        <file name="modules/org-netbeans-modules-web-project.jar"/>
+        <file name="update_tracking/org-netbeans-modules-web-project.xml"/>
+        <file name="modules/locale/org-netbeans-modules-web-project_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-web-project_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.projectui" name="projects/projectui" nbmfilename="org-netbeans-modules-projectui.nbm" nbmhomepage="http://projects.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-projectui.xml"/>
+        <file name="modules/org-netbeans-modules-projectui.jar"/>
+        <file name="update_tracking/org-netbeans-modules-projectui.xml"/>
+        <file name="modules/locale/org-netbeans-modules-projectui_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-projectui_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.j2ee.ejbcore" name="j2ee/ejbcore" nbmfilename="org-netbeans-modules-j2ee-ejbcore.nbm" nbmhomepage="http://j2ee.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-j2ee-ejbcore.xml"/>
+        <file name="modules/org-netbeans-modules-j2ee-ejbcore.jar"/>
+        <file name="update_tracking/org-netbeans-modules-j2ee-ejbcore.xml"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-ejbcore_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-ejbcore_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.j2ee.dd.webservice" name="websvc/websvcddapi" nbmfilename="org-netbeans-modules-j2ee-dd-webservice.nbm" nbmhomepage="http://websvc.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-j2ee-dd-webservice.xml"/>
+        <file name="modules/org-netbeans-modules-j2ee-dd-webservice.jar"/>
+        <file name="update_tracking/org-netbeans-modules-j2ee-dd-webservice.xml"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-dd-webservice_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-dd-webservice_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.spi.navigator/1" name="core/navigator" nbmfilename="org-netbeans-spi-navigator.nbm" nbmhomepage="http://core.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-spi-navigator.xml"/>
+        <file name="modules/org-netbeans-spi-navigator.jar"/>
+        <file name="update_tracking/org-netbeans-spi-navigator.xml"/>
+        <file name="modules/locale/org-netbeans-spi-navigator_ja.jar"/>
+        <file name="modules/locale/org-netbeans-spi-navigator_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.masterfs/1" name="openide/masterfs" nbmfilename="org-netbeans-modules-masterfs.nbm" nbmhomepage="http://openide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-netbeans-modules-masterfs.xml"/>
+        <file name="modules/org-netbeans-modules-masterfs.jar"/>
+        <file name="update_tracking/org-netbeans-modules-masterfs.xml"/>
+        <file name="modules/locale/org-netbeans-modules-masterfs_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-masterfs_zh_CN.jar"/>
+    </module>
+    <module codename="org.openide.awt" name="openide/awt" nbmfilename="org-openide-awt.nbm" nbmhomepage="http://openide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-openide-awt.xml"/>
+        <file name="modules/org-openide-awt.jar"/>
+        <file name="update_tracking/org-openide-awt.xml"/>
+        <file name="modules/locale/org-openide-awt_ja.jar"/>
+        <file name="modules/locale/org-openide-awt_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.xml.schema/1" name="xml/schema" nbmfilename="org-netbeans-modules-xml-schema.nbm" nbmhomepage="http://xml.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-xml-schema.xml"/>
+        <file name="modules/org-netbeans-modules-xml-schema.jar"/>
+        <file name="update_tracking/org-netbeans-modules-xml-schema.xml"/>
+        <file name="modules/locale/org-netbeans-modules-xml-schema_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-xml-schema_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.ant.grammar/1" name="ant/grammar" nbmfilename="org-netbeans-modules-ant-grammar.nbm" nbmhomepage="http://ant.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-ant-grammar.xml"/>
+        <file name="modules/org-netbeans-modules-ant-grammar.jar"/>
+        <file name="update_tracking/org-netbeans-modules-ant-grammar.xml"/>
+        <file name="modules/locale/org-netbeans-modules-ant-grammar_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-ant-grammar_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.j2ee.platform/1" name="j2ee/platform" nbmfilename="org-netbeans-modules-j2ee-platform.nbm" nbmhomepage="http://j2ee.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-j2ee-platform.xml"/>
+        <file name="docs/j2eeri-1_4-doc-api.zip"/>
+        <file name="modules/docs/org-netbeans-modules-j2ee-platform.jar"/>
+        <file name="modules/org-netbeans-modules-j2ee-platform.jar"/>
+        <file name="update_tracking/org-netbeans-modules-j2ee-platform.xml"/>
+        <file name="modules/docs/locale/org-netbeans-modules-j2ee-platform_ja.jar"/>
+        <file name="modules/docs/locale/org-netbeans-modules-j2ee-platform_zh_CN.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-platform_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-platform_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.xsl/1" name="xml/xsl" nbmfilename="org-netbeans-modules-xsl.nbm" nbmhomepage="http://xml.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-xsl.xml"/>
+        <file name="modules/org-netbeans-modules-xsl.jar"/>
+        <file name="update_tracking/org-netbeans-modules-xsl.xml"/>
+        <file name="modules/locale/org-netbeans-modules-xsl_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-xsl_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.form/2" name="form" nbmfilename="org-netbeans-modules-form.nbm" nbmhomepage="http://form.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-form.xml"/>
+        <file name="modules/ext/AbsoluteLayout.jar"/>
+        <file name="modules/org-netbeans-modules-form.jar"/>
+        <file name="sources/org/netbeans/lib/awtextra/AbsoluteConstraints.java"/>
+        <file name="sources/org/netbeans/lib/awtextra/AbsoluteLayout.java"/>
+        <file name="sources/readme.txt"/>
+        <file name="update_tracking/org-netbeans-modules-form.xml"/>
+        <file name="modules/locale/org-netbeans-modules-form_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-form_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.j2ee.earproject" name="j2ee/earproject" nbmfilename="org-netbeans-modules-j2ee-earproject.nbm" nbmhomepage="http://j2ee.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-j2ee-earproject.xml"/>
+        <file name="modules/org-netbeans-modules-j2ee-earproject.jar"/>
+        <file name="update_tracking/org-netbeans-modules-j2ee-earproject.xml"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-earproject_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-earproject_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.html.editor.lib/1" name="html/editor/lib" nbmfilename="org-netbeans-modules-html-editor-lib.nbm" nbmhomepage="http://html.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-html-editor-lib.xml"/>
+        <file name="modules/org-netbeans-modules-html-editor-lib.jar"/>
+        <file name="update_tracking/org-netbeans-modules-html-editor-lib.xml"/>
+        <file name="modules/locale/org-netbeans-modules-html-editor-lib_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-html-editor-lib_zh_CN.jar"/>
+    </module>
+    <module codename="org.openide.explorer" name="openide/explorer" nbmfilename="org-openide-explorer.nbm" nbmhomepage="http://openide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-openide-explorer.xml"/>
+        <file name="modules/org-openide-explorer.jar"/>
+        <file name="update_tracking/org-openide-explorer.xml"/>
+        <file name="modules/locale/org-openide-explorer_ja.jar"/>
+        <file name="modules/locale/org-openide-explorer_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.debugger.jpda.ui/1" name="debuggerjpda/ui" nbmfilename="org-netbeans-modules-debugger-jpda-ui.nbm" nbmhomepage="http://debuggerjpda.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-debugger-jpda-ui.xml"/>
+        <file name="modules/org-netbeans-modules-debugger-jpda-ui.jar"/>
+        <file name="update_tracking/org-netbeans-modules-debugger-jpda-ui.xml"/>
+        <file name="modules/locale/org-netbeans-modules-debugger-jpda-ui_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-debugger-jpda-ui_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.html.editor/1" name="html/editor" nbmfilename="org-netbeans-modules-html-editor.nbm" nbmhomepage="http://html.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-html-editor.xml"/>
+        <file name="docs/html40.zip"/>
+        <file name="modules/org-netbeans-modules-html-editor.jar"/>
+        <file name="update_tracking/org-netbeans-modules-html-editor.xml"/>
+        <file name="modules/locale/org-netbeans-modules-html-editor_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-html-editor_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.j2ee.genericserver" name="j2ee/genericserver" nbmfilename="org-netbeans-modules-j2ee-genericserver.nbm" nbmhomepage="http://j2ee.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-j2ee-genericserver.xml"/>
+        <file name="modules/org-netbeans-modules-j2ee-genericserver.jar"/>
+        <file name="update_tracking/org-netbeans-modules-j2ee-genericserver.xml"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-genericserver_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-genericserver_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.core.ide/1" name="core/ide" nbmfilename="org-netbeans-core-ide.nbm" nbmhomepage="http://core.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-core-ide.xml"/>
+        <file name="modules/org-netbeans-core-ide.jar"/>
+        <file name="update_tracking/org-netbeans-core-ide.xml"/>
+        <file name="modules/locale/org-netbeans-core-ide_ja.jar"/>
+        <file name="modules/locale/org-netbeans-core-ide_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.xml.tools/2" name="xml/tools" nbmfilename="org-netbeans-modules-xml-tools.nbm" nbmhomepage="http://xml.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-xml-tools.xml"/>
+        <file name="modules/org-netbeans-modules-xml-tools.jar"/>
+        <file name="update_tracking/org-netbeans-modules-xml-tools.xml"/>
+        <file name="modules/locale/org-netbeans-modules-xml-tools_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-xml-tools_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.api.debugger.jpda/2" name="debuggerjpda/api" nbmfilename="org-netbeans-api-debugger-jpda.nbm" nbmhomepage="http://debuggerjpda.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-api-debugger-jpda.xml"/>
+        <file name="modules/org-netbeans-api-debugger-jpda.jar"/>
+        <file name="update_tracking/org-netbeans-api-debugger-jpda.xml"/>
+        <file name="modules/locale/org-netbeans-api-debugger-jpda_ja.jar"/>
+        <file name="modules/locale/org-netbeans-api-debugger-jpda_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.refactoring/1" name="refactoring" nbmfilename="org-netbeans-modules-refactoring.nbm" nbmhomepage="http://refactoring.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-refactoring.xml"/>
+        <file name="modules/org-netbeans-modules-refactoring.jar"/>
+        <file name="update_tracking/org-netbeans-modules-refactoring.xml"/>
+        <file name="modules/locale/org-netbeans-modules-refactoring_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-refactoring_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.i18n/1" name="i18n" nbmfilename="org-netbeans-modules-i18n.nbm" nbmhomepage="http://i18n.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-i18n.xml"/>
+        <file name="modules/org-netbeans-modules-i18n.jar"/>
+        <file name="update_tracking/org-netbeans-modules-i18n.xml"/>
+        <file name="modules/locale/org-netbeans-modules-i18n_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-i18n_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.javahelp/1" name="core/javahelp" nbmfilename="org-netbeans-modules-javahelp.nbm" nbmhomepage="http://core.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-netbeans-modules-javahelp.xml"/>
+        <file name="modules/ext/jh-2.0_03.jar"/>
+        <file name="modules/org-netbeans-modules-javahelp.jar"/>
+        <file name="update_tracking/org-netbeans-modules-javahelp.xml"/>
+        <file name="modules/locale/org-netbeans-modules-javahelp_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-javahelp_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.suggestions_framework/2" name="tasklist/suggestions" nbmfilename="org-netbeans-modules-suggestions_framework.nbm" nbmhomepage="http://tasklist.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-suggestions_framework.xml"/>
+        <file name="modules/org-netbeans-modules-suggestions_framework.jar"/>
+        <file name="update_tracking/org-netbeans-modules-suggestions_framework.xml"/>
+        <file name="modules/locale/org-netbeans-modules-suggestions_framework_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-suggestions_framework_zh_CN.jar"/>
+    </module>
+    <module codename="org.openidex.util/3" name="openidex" nbmfilename="org-openidex-util.nbm" nbmhomepage="http://openidex.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-openidex-util.xml"/>
+        <file name="modules/org-openidex-util.jar"/>
+        <file name="update_tracking/org-openidex-util.xml"/>
+        <file name="modules/locale/org-openidex-util_ja.jar"/>
+        <file name="modules/locale/org-openidex-util_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.web.jsf/1" name="web/jsf" nbmfilename="org-netbeans-modules-web-jsf.nbm" nbmhomepage="http://web.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-web-jsf.xml"/>
+        <file name="docs/jsf-1.1.01-javadoc.zip"/>
+        <file name="modules/ext/jsf/commons-beanutils.jar"/>
+        <file name="modules/ext/jsf/commons-collections.jar"/>
+        <file name="modules/ext/jsf/commons-digester.jar"/>
+        <file name="modules/ext/jsf/commons-logging.jar"/>
+        <file name="modules/ext/jsf/jsf-api.jar"/>
+        <file name="modules/ext/jsf/jsf-impl.jar"/>
+        <file name="modules/org-netbeans-modules-web-jsf.jar"/>
+        <file name="update_tracking/org-netbeans-modules-web-jsf.xml"/>
+        <file name="modules/locale/org-netbeans-modules-web-jsf_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-web-jsf_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.dbschema/1" name="db/model" nbmfilename="org-netbeans-modules-dbschema.nbm" nbmhomepage="http://db.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-dbschema.xml"/>
+        <file name="modules/docs/org-netbeans-modules-dbschema.jar"/>
+        <file name="modules/org-netbeans-modules-dbschema.jar"/>
+        <file name="update_tracking/org-netbeans-modules-dbschema.xml"/>
+        <file name="modules/docs/locale/org-netbeans-modules-dbschema_ja.jar"/>
+        <file name="modules/docs/locale/org-netbeans-modules-dbschema_zh_CN.jar"/>
+        <file name="modules/locale/org-netbeans-modules-dbschema_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-dbschema_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.utilities/1" name="utilities" nbmfilename="org-netbeans-modules-utilities.nbm" nbmhomepage="http://utilities.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-utilities.xml"/>
+        <file name="core/org-netbeans-modules-utilities-cli.jar"/>
+        <file name="modules/org-netbeans-modules-utilities.jar"/>
+        <file name="update_tracking/org-netbeans-modules-utilities.xml"/>
+        <file name="modules/locale/org-netbeans-modules-utilities_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-utilities_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.db/0" name="db" nbmfilename="org-netbeans-modules-db.nbm" nbmhomepage="http://db.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-db.xml"/>
+        <file name="modules/docs/org-netbeans-modules-db.jar"/>
+        <file name="modules/ext/ddl.jar"/>
+        <file name="modules/org-netbeans-modules-db.jar"/>
+        <file name="update_tracking/org-netbeans-modules-db.xml"/>
+        <file name="modules/docs/locale/org-netbeans-modules-db_ja.jar"/>
+        <file name="modules/docs/locale/org-netbeans-modules-db_zh_CN.jar"/>
+        <file name="modules/ext/locale/ddl_ja.jar"/>
+        <file name="modules/ext/locale/ddl_zh_CN.jar"/>
+        <file name="modules/locale/org-netbeans-modules-db_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-db_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.editor.settings/1" name="editor/settings" nbmfilename="org-netbeans-modules-editor-settings.nbm" nbmhomepage="http://editor.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-editor-settings.xml"/>
+        <file name="modules/org-netbeans-modules-editor-settings.jar"/>
+        <file name="update_tracking/org-netbeans-modules-editor-settings.xml"/>
+        <file name="modules/locale/org-netbeans-modules-editor-settings_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-editor-settings_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.java.platform/1" name="java/platform" nbmfilename="org-netbeans-modules-java-platform.nbm" nbmhomepage="http://java.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/ModuleAutoDeps/org-netbeans-modules-java-platform.xml"/>
+        <file name="config/Modules/org-netbeans-modules-java-platform.xml"/>
+        <file name="modules/org-netbeans-modules-java-platform.jar"/>
+        <file name="update_tracking/org-netbeans-modules-java-platform.xml"/>
+        <file name="modules/locale/org-netbeans-modules-java-platform_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-java-platform_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.web.jstl11/1" name="web/jstl11" nbmfilename="org-netbeans-modules-web-jstl11.nbm" nbmhomepage="http://web.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-web-jstl11.xml"/>
+        <file name="docs/jstl-1.1.2-javadoc.zip"/>
+        <file name="modules/ext/jstl.jar"/>
+        <file name="modules/ext/standard.jar"/>
+        <file name="modules/org-netbeans-modules-web-jstl11.jar"/>
+        <file name="update_tracking/org-netbeans-modules-web-jstl11.xml"/>
+        <file name="modules/locale/org-netbeans-modules-web-jstl11_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-web-jstl11_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.java.project/1" name="java/project" nbmfilename="org-netbeans-modules-java-project.nbm" nbmhomepage="http://java.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/ModuleAutoDeps/org-netbeans-modules-java-project.xml"/>
+        <file name="config/Modules/org-netbeans-modules-java-project.xml"/>
+        <file name="modules/org-netbeans-modules-java-project.jar"/>
+        <file name="update_tracking/org-netbeans-modules-java-project.xml"/>
+        <file name="modules/locale/org-netbeans-modules-java-project_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-java-project_zh_CN.jar"/>
+    </module>
+    <module codename="javax.jmi.reflect/1" name="mdr/jmi" nbmfilename="javax-jmi-reflect.nbm" nbmhomepage="http://mdr.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/javax-jmi-reflect.xml"/>
+        <file name="modules/ext/jmi.jar"/>
+        <file name="modules/javax-jmi-reflect.jar"/>
+        <file name="update_tracking/javax-jmi-reflect.xml"/>
+        <file name="modules/locale/javax-jmi-reflect_ja.jar"/>
+        <file name="modules/locale/javax-jmi-reflect_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.java.j2seplatform/1" name="java/j2seplatform" nbmfilename="org-netbeans-modules-java-j2seplatform.nbm" nbmhomepage="http://java.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-java-j2seplatform.xml"/>
+        <file name="modules/ext/org-netbeans-modules-java-j2seplatform-probe.jar"/>
+        <file name="modules/org-netbeans-modules-java-j2seplatform.jar"/>
+        <file name="update_tracking/org-netbeans-modules-java-j2seplatform.xml"/>
+        <file name="modules/locale/org-netbeans-modules-java-j2seplatform_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-java-j2seplatform_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.properties/1" name="properties" nbmfilename="org-netbeans-modules-properties.nbm" nbmhomepage="http://properties.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-properties.xml"/>
+        <file name="modules/org-netbeans-modules-properties.jar"/>
+        <file name="update_tracking/org-netbeans-modules-properties.xml"/>
+        <file name="modules/locale/org-netbeans-modules-properties_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-properties_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.core.startup/1" name="core/startup" nbmfilename="org-netbeans-core-startup.nbm" nbmhomepage="http://core.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="core/core.jar"/>
+        <file name="config/Modules/org-netbeans-core-startup.xml"/>
+        <file name="update_tracking/org-netbeans-core-startup.xml"/>
+        <file name="core/locale/core_ja.jar"/>
+        <file name="core/locale/core_zh_CN.jar"/>
+    </module>
+    <module codename="org.openide.dialogs" name="openide/dialogs" nbmfilename="org-openide-dialogs.nbm" nbmhomepage="http://openide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-openide-dialogs.xml"/>
+        <file name="modules/org-openide-dialogs.jar"/>
+        <file name="update_tracking/org-openide-dialogs.xml"/>
+        <file name="modules/locale/org-openide-dialogs_ja.jar"/>
+        <file name="modules/locale/org-openide-dialogs_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.ant.freeform/1" name="ant/freeform" nbmfilename="org-netbeans-modules-ant-freeform.nbm" nbmhomepage="http://ant.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-ant-freeform.xml"/>
+        <file name="modules/org-netbeans-modules-ant-freeform.jar"/>
+        <file name="update_tracking/org-netbeans-modules-ant-freeform.xml"/>
+        <file name="modules/locale/org-netbeans-modules-ant-freeform_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-ant-freeform_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.web.core/1" name="web/core" nbmfilename="org-netbeans-modules-web-core.nbm" nbmhomepage="http://web.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-web-core.xml"/>
+        <file name="modules/org-netbeans-modules-web-core.jar"/>
+        <file name="update_tracking/org-netbeans-modules-web-core.xml"/>
+        <file name="modules/locale/org-netbeans-modules-web-core_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-web-core_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.editor.plain.lib/1" name="editor/plain/lib" nbmfilename="org-netbeans-modules-editor-plain-lib.nbm" nbmhomepage="http://editor.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-editor-plain-lib.xml"/>
+        <file name="modules/org-netbeans-modules-editor-plain-lib.jar"/>
+        <file name="update_tracking/org-netbeans-modules-editor-plain-lib.xml"/>
+        <file name="modules/locale/org-netbeans-modules-editor-plain-lib_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-editor-plain-lib_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.j2ee.dd/1" name="j2ee/ddapi" nbmfilename="org-netbeans-modules-j2ee-dd.nbm" nbmhomepage="http://j2ee.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-j2ee-dd.xml"/>
+        <file name="modules/org-netbeans-modules-j2ee-dd.jar"/>
+        <file name="update_tracking/org-netbeans-modules-j2ee-dd.xml"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-dd_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-dd_zh_CN.jar"/>
+    </module>
+    <module codename="org.openide.util" name="openide/util" nbmfilename="org-openide-util.nbm" nbmhomepage="http://openide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="lib/org-openide-util.jar"/>
+        <file name="config/Modules/org-openide-util.xml"/>
+        <file name="update_tracking/org-openide-util.xml"/>
+        <file name="lib/locale/org-openide-util_ja.jar"/>
+        <file name="lib/locale/org-openide-util_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.core.output2/1" name="core/output2" nbmfilename="org-netbeans-core-output2.nbm" nbmhomepage="http://core.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-netbeans-core-output2.xml"/>
+        <file name="modules/org-netbeans-core-output2.jar"/>
+        <file name="update_tracking/org-netbeans-core-output2.xml"/>
+        <file name="modules/locale/org-netbeans-core-output2_ja.jar"/>
+        <file name="modules/locale/org-netbeans-core-output2_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.apisupport.ant" name="apisupport/ant" nbmfilename="org-netbeans-modules-apisupport-ant.nbm" nbmhomepage="http://apisupport.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="ant/nblib/org-netbeans-modules-apisupport-ant.jar"/>
+        <file name="config/Modules/org-netbeans-modules-apisupport-ant.xml"/>
+        <file name="modules/org-netbeans-modules-apisupport-ant.jar"/>
+        <file name="update_tracking/org-netbeans-modules-apisupport-ant.xml"/>
+        <file name="modules/locale/org-netbeans-modules-apisupport-ant_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-apisupport-ant_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.debugger.jpda.ant" name="debuggerjpda/ant" nbmfilename="org-netbeans-modules-debugger-jpda-ant.nbm" nbmhomepage="http://debuggerjpda.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="ant/nblib/org-netbeans-modules-debugger-jpda-ant.jar"/>
+        <file name="config/Modules/org-netbeans-modules-debugger-jpda-ant.xml"/>
+        <file name="modules/org-netbeans-modules-debugger-jpda-ant.jar"/>
+        <file name="update_tracking/org-netbeans-modules-debugger-jpda-ant.xml"/>
+        <file name="modules/locale/org-netbeans-modules-debugger-jpda-ant_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-debugger-jpda-ant_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.api.web.webmodule" name="web/webapi" nbmfilename="org-netbeans-api-web-webmodule.nbm" nbmhomepage="http://web.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-api-web-webmodule.xml"/>
+        <file name="modules/org-netbeans-api-web-webmodule.jar"/>
+        <file name="update_tracking/org-netbeans-api-web-webmodule.xml"/>
+        <file name="modules/locale/org-netbeans-api-web-webmodule_ja.jar"/>
+        <file name="modules/locale/org-netbeans-api-web-webmodule_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.editor.hints/1" name="editor/hints" nbmfilename="org-netbeans-modules-editor-hints.nbm" nbmhomepage="http://editor.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-editor-hints.xml"/>
+        <file name="modules/org-netbeans-modules-editor-hints.jar"/>
+        <file name="update_tracking/org-netbeans-modules-editor-hints.xml"/>
+        <file name="modules/locale/org-netbeans-modules-editor-hints_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-editor-hints_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.web.debug/1" name="web/jspdebug" nbmfilename="org-netbeans-modules-web-debug.nbm" nbmhomepage="http://web.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-web-debug.xml"/>
+        <file name="modules/org-netbeans-modules-web-debug.jar"/>
+        <file name="update_tracking/org-netbeans-modules-web-debug.xml"/>
+        <file name="modules/locale/org-netbeans-modules-web-debug_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-web-debug_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.core.execution/1" name="core/execution" nbmfilename="org-netbeans-core-execution.nbm" nbmhomepage="http://core.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-netbeans-core-execution.xml"/>
+        <file name="modules/org-netbeans-core-execution.jar"/>
+        <file name="update_tracking/org-netbeans-core-execution.xml"/>
+        <file name="modules/locale/org-netbeans-core-execution_ja.jar"/>
+        <file name="modules/locale/org-netbeans-core-execution_zh_CN.jar"/>
+    </module>
+    <module codename="org.openide.options" name="openide/options" nbmfilename="org-openide-options.nbm" nbmhomepage="http://openide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-openide-options.xml"/>
+        <file name="modules/org-openide-options.jar"/>
+        <file name="update_tracking/org-openide-options.xml"/>
+        <file name="modules/locale/org-openide-options_ja.jar"/>
+        <file name="modules/locale/org-openide-options_zh_CN.jar"/>
+    </module>
+    <module codename="org.openide.text" name="openide/text" nbmfilename="org-openide-text.nbm" nbmhomepage="http://openide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-openide-text.xml"/>
+        <file name="modules/org-openide-text.jar"/>
+        <file name="update_tracking/org-openide-text.xml"/>
+        <file name="modules/locale/org-openide-text_ja.jar"/>
+        <file name="modules/locale/org-openide-text_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.tasklist.core/2" name="tasklist/core" nbmfilename="org-netbeans-modules-tasklist-core.nbm" nbmhomepage="http://tasklist.netbeans.org/updates/tasklist-core.html" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-tasklist-core.xml"/>
+        <file name="modules/org-netbeans-modules-tasklist-core.jar"/>
+        <file name="update_tracking/org-netbeans-modules-tasklist-core.xml"/>
+        <file name="modules/locale/org-netbeans-modules-tasklist-core_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-tasklist-core_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.options.api/0" name="core/options" nbmfilename="org-netbeans-modules-options-api.nbm" nbmhomepage="http://core.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-options-api.xml"/>
+        <file name="modules/org-netbeans-modules-options-api.jar"/>
+        <file name="update_tracking/org-netbeans-modules-options-api.xml"/>
+        <file name="modules/locale/org-netbeans-modules-options-api_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-options-api_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.j2eeapis/1" name="j2eeserver/j2eeapis" nbmfilename="org-netbeans-modules-j2eeapis.nbm" nbmhomepage="http://j2eeserver.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-j2eeapis.xml"/>
+        <file name="modules/ext/jsr88javax.jar"/>
+        <file name="modules/org-netbeans-modules-j2eeapis.jar"/>
+        <file name="update_tracking/org-netbeans-modules-j2eeapis.xml"/>
+        <file name="modules/locale/org-netbeans-modules-j2eeapis_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2eeapis_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.java.freeform/1" name="java/freeform" nbmfilename="org-netbeans-modules-java-freeform.nbm" nbmhomepage="http://java.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-java-freeform.xml"/>
+        <file name="modules/org-netbeans-modules-java-freeform.jar"/>
+        <file name="update_tracking/org-netbeans-modules-java-freeform.xml"/>
+        <file name="modules/locale/org-netbeans-modules-java-freeform_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-java-freeform_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.apisupport.refactoring" name="apisupport/refactoring" nbmfilename="org-netbeans-modules-apisupport-refactoring.nbm" nbmhomepage="http://apisupport.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-apisupport-refactoring.xml"/>
+        <file name="modules/org-netbeans-modules-apisupport-refactoring.jar"/>
+        <file name="update_tracking/org-netbeans-modules-apisupport-refactoring.xml"/>
+        <file name="modules/locale/org-netbeans-modules-apisupport-refactoring_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-apisupport-refactoring_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.tasklistapi/1" name="tasklist/api" nbmfilename="org-netbeans-tasklistapi.nbm" nbmhomepage="http://tasklist.netbeans.org/updates/tasklist-api.html" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-tasklistapi.xml"/>
+        <file name="modules/org-netbeans-tasklistapi.jar"/>
+        <file name="update_tracking/org-netbeans-tasklistapi.xml"/>
+        <file name="modules/locale/org-netbeans-tasklistapi_ja.jar"/>
+        <file name="modules/locale/org-netbeans-tasklistapi_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.core.windows/2" name="core/windows" nbmfilename="org-netbeans-core-windows.nbm" nbmhomepage="http://core.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-netbeans-core-windows.xml"/>
+        <file name="modules/org-netbeans-core-windows.jar"/>
+        <file name="update_tracking/org-netbeans-core-windows.xml"/>
+        <file name="modules/locale/org-netbeans-core-windows_ja.jar"/>
+        <file name="modules/locale/org-netbeans-core-windows_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.editor.errorstripe/2" name="editor/errorstripe" nbmfilename="org-netbeans-modules-editor-errorstripe.nbm" nbmhomepage="http://editor.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="true" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-editor-errorstripe.xml"/>
+        <file name="modules/org-netbeans-modules-editor-errorstripe.jar"/>
+        <file name="update_tracking/org-netbeans-modules-editor-errorstripe.xml"/>
+        <file name="modules/locale/org-netbeans-modules-editor-errorstripe_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-editor-errorstripe_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.projectuiapi/1" name="projects/projectuiapi" nbmfilename="org-netbeans-modules-projectuiapi.nbm" nbmhomepage="http://projects.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/ModuleAutoDeps/org-netbeans-modules-projectuiapi.xml"/>
+        <file name="config/Modules/org-netbeans-modules-projectuiapi.xml"/>
+        <file name="modules/org-netbeans-modules-projectuiapi.jar"/>
+        <file name="update_tracking/org-netbeans-modules-projectuiapi.xml"/>
+        <file name="modules/locale/org-netbeans-modules-projectuiapi_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-projectuiapi_zh_CN.jar"/>
+    </module>
+    <module codename="org.openide.modules" name="openide/modules" nbmfilename="org-openide-modules.nbm" nbmhomepage="http://openide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/ModuleAutoDeps/org-openide-modules.xml"/>
+        <file name="lib/org-openide-modules.jar"/>
+        <file name="config/Modules/org-openide-modules.xml"/>
+        <file name="update_tracking/org-openide-modules.xml"/>
+        <file name="lib/locale/org-openide-modules_ja.jar"/>
+        <file name="lib/locale/org-openide-modules_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.swing.tabcontrol" name="core/swing/tabcontrol" nbmfilename="org-netbeans-swing-tabcontrol.nbm" nbmhomepage="http://core.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-netbeans-swing-tabcontrol.xml"/>
+        <file name="modules/org-netbeans-swing-tabcontrol.jar"/>
+        <file name="update_tracking/org-netbeans-swing-tabcontrol.xml"/>
+        <file name="modules/locale/org-netbeans-swing-tabcontrol_ja.jar"/>
+        <file name="modules/locale/org-netbeans-swing-tabcontrol_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.web.core.syntax/1" name="web/jspsyntax" nbmfilename="org-netbeans-modules-web-core-syntax.nbm" nbmhomepage="http://web.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-web-core-syntax.xml"/>
+        <file name="docs/jsf10-doc.zip"/>
+        <file name="docs/jstl11-doc.zip"/>
+        <file name="docs/struts-tags.zip"/>
+        <file name="docs/syntaxref20.zip"/>
+        <file name="modules/org-netbeans-modules-web-core-syntax.jar"/>
+        <file name="update_tracking/org-netbeans-modules-web-core-syntax.xml"/>
+        <file name="modules/locale/org-netbeans-modules-web-core-syntax_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-web-core-syntax_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.tomcat5/1" name="tomcatint/tomcat5" nbmfilename="org-netbeans-modules-tomcat5.nbm" nbmhomepage="http://tomcatint.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-tomcat5.xml"/>
+        <file name="modules/docs/org-netbeans-modules-tomcat5.jar"/>
+        <file name="modules/org-netbeans-modules-tomcat5.jar"/>
+        <file name="update_tracking/org-netbeans-modules-tomcat5.xml"/>
+        <file name="modules/docs/locale/org-netbeans-modules-tomcat5_ja.jar"/>
+        <file name="modules/docs/locale/org-netbeans-modules-tomcat5_zh_CN.jar"/>
+        <file name="modules/locale/org-netbeans-modules-tomcat5_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-tomcat5_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.apisupport.harness" name="apisupport/harness" nbmfilename="org-netbeans-modules-apisupport-harness.nbm" nbmhomepage="http://apisupport.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="harness">
+        <file name="README"/>
+        <file name="build.xml"/>
+        <file name="common.xml"/>
+        <file name="config/Modules/org-netbeans-modules-apisupport-harness.xml"/>
+        <file name="etc/app.clusters"/>
+        <file name="etc/app.conf"/>
+        <file name="jnlp.xml"/>
+        <file name="jnlp/jnlp-launcher.jar"/>
+        <file name="launchers/app.exe"/>
+        <file name="launchers/app.sh"/>
+        <file name="launchers/app_w.exe"/>
+        <file name="modules/org-netbeans-modules-apisupport-harness.jar"/>
+        <file name="run.xml"/>
+        <file name="suite.xml"/>
+        <file name="tasks.jar"/>
+        <file name="update_tracking/org-netbeans-modules-apisupport-harness.xml"/>
+        <file name="modules/locale/org-netbeans-modules-apisupport-harness_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-apisupport-harness_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.j2ee.blueprints/1" name="j2ee/blueprints" nbmfilename="org-netbeans-modules-j2ee-blueprints.nbm" nbmhomepage="http://j2ee.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-j2ee-blueprints.xml"/>
+        <file name="modules/org-netbeans-modules-j2ee-blueprints.jar"/>
+        <file name="update_tracking/org-netbeans-modules-j2ee-blueprints.xml"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-blueprints_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-blueprints_zh_CN.jar"/>
+    </module>
+    <module codename="org.openide.compat" name="openide/compat" nbmfilename="org-openide-compat.nbm" nbmhomepage="http://openide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-openide-compat.xml"/>
+        <file name="modules/org-openide-compat.jar"/>
+        <file name="update_tracking/org-openide-compat.xml"/>
+        <file name="modules/locale/org-openide-compat_ja.jar"/>
+        <file name="modules/locale/org-openide-compat_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.image/1" name="image" nbmfilename="org-netbeans-modules-image.nbm" nbmhomepage="http://image.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-image.xml"/>
+        <file name="modules/org-netbeans-modules-image.jar"/>
+        <file name="update_tracking/org-netbeans-modules-image.xml"/>
+        <file name="modules/locale/org-netbeans-modules-image_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-image_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.usersguide/1" name="usersguide" nbmfilename="org-netbeans-modules-usersguide.nbm" nbmhomepage="http://usersguide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-usersguide.xml"/>
+        <file name="docs/org/netbeans/modules/usersguide/ide.css"/>
+        <file name="modules/docs/org-netbeans-modules-usersguide.jar"/>
+        <file name="modules/org-netbeans-modules-usersguide.jar"/>
+        <file name="update_tracking/org-netbeans-modules-usersguide.xml"/>
+        <file name="modules/docs/locale/org-netbeans-modules-usersguide_ja.jar"/>
+        <file name="modules/docs/locale/org-netbeans-modules-usersguide_zh_CN.jar"/>
+        <file name="modules/locale/org-netbeans-modules-usersguide_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-usersguide_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.apisupport.project" name="apisupport/project" nbmfilename="org-netbeans-modules-apisupport-project.nbm" nbmhomepage="http://apisupport.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-apisupport-project.xml"/>
+        <file name="modules/docs/org-netbeans-modules-apisupport-project.jar"/>
+        <file name="modules/org-netbeans-modules-apisupport-project.jar"/>
+        <file name="update_tracking/org-netbeans-modules-apisupport-project.xml"/>
+        <file name="modules/docs/locale/org-netbeans-modules-apisupport-project_ja.jar"/>
+        <file name="modules/docs/locale/org-netbeans-modules-apisupport-project_zh_CN.jar"/>
+        <file name="modules/locale/org-netbeans-modules-apisupport-project_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-apisupport-project_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.api.web.dd/1" name="web/ddapi" nbmfilename="org-netbeans-api-web-dd.nbm" nbmhomepage="http://web.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-api-web-dd.xml"/>
+        <file name="modules/org-netbeans-api-web-dd.jar"/>
+        <file name="update_tracking/org-netbeans-api-web-dd.xml"/>
+        <file name="modules/locale/org-netbeans-api-web-dd_ja.jar"/>
+        <file name="modules/locale/org-netbeans-api-web-dd_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.web.freeform" name="web/freeform" nbmfilename="org-netbeans-modules-web-freeform.nbm" nbmhomepage="http://web.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-web-freeform.xml"/>
+        <file name="modules/org-netbeans-modules-web-freeform.jar"/>
+        <file name="update_tracking/org-netbeans-modules-web-freeform.xml"/>
+        <file name="modules/locale/org-netbeans-modules-web-freeform_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-web-freeform_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.j2ee.sun.appsrv/1" name="serverplugins/sun/appsrv" nbmfilename="org-netbeans-modules-j2ee-sun-appsrv.nbm" nbmhomepage="http://serverplugins.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="ant/nblib/org-netbeans-modules-j2ee-sun-appsrv81.jar"/>
+        <file name="config/Modules/org-netbeans-modules-j2ee-sun-appsrv.xml"/>
+        <file name="modules/ext/persistence-tool-support.jar"/>
+        <file name="modules/org-netbeans-modules-j2ee-sun-appsrv.jar"/>
+        <file name="update_tracking/org-netbeans-modules-j2ee-sun-appsrv.xml"/>
+        <file name="modules/ext/locale/persistence-tool-support_ja.jar"/>
+        <file name="modules/ext/locale/persistence-tool-support_zh_CN.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-sun-appsrv_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-sun-appsrv_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.j2ee.jboss4/1" name="serverplugins/jboss4" nbmfilename="org-netbeans-modules-j2ee-jboss4.nbm" nbmhomepage="http://serverplugins.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-j2ee-jboss4.xml"/>
+        <file name="modules/org-netbeans-modules-j2ee-jboss4.jar"/>
+        <file name="update_tracking/org-netbeans-modules-j2ee-jboss4.xml"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-jboss4_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-jboss4_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.j2ee.ejbjarproject" name="j2ee/ejbjarproject" nbmfilename="org-netbeans-modules-j2ee-ejbjarproject.nbm" nbmhomepage="http://j2ee.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-j2ee-ejbjarproject.xml"/>
+        <file name="modules/org-netbeans-modules-j2ee-ejbjarproject.jar"/>
+        <file name="update_tracking/org-netbeans-modules-j2ee-ejbjarproject.xml"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-ejbjarproject_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-ejbjarproject_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.web.jspparser/2" name="web/jspparser" nbmfilename="org-netbeans-modules-web-jspparser.nbm" nbmhomepage="http://web.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-web-jspparser.xml"/>
+        <file name="modules/ext/commons-el.jar"/>
+        <file name="modules/ext/jasper-compiler-5.5.9.jar"/>
+        <file name="modules/ext/jasper-runtime-5.5.9.jar"/>
+        <file name="modules/ext/jsp-parser-ext.jar"/>
+        <file name="modules/org-netbeans-modules-web-jspparser.jar"/>
+        <file name="update_tracking/org-netbeans-modules-web-jspparser.xml"/>
+        <file name="modules/ext/locale/jsp-parser-ext_ja.jar"/>
+        <file name="modules/ext/locale/jsp-parser-ext_zh_CN.jar"/>
+        <file name="modules/locale/org-netbeans-modules-web-jspparser_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-web-jspparser_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.swing.plaf" name="core/swing/plaf" nbmfilename="org-netbeans-swing-plaf.nbm" nbmhomepage="http://core.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-netbeans-swing-plaf.xml"/>
+        <file name="modules/org-netbeans-swing-plaf.jar"/>
+        <file name="update_tracking/org-netbeans-swing-plaf.xml"/>
+        <file name="modules/locale/org-netbeans-swing-plaf_ja.jar"/>
+        <file name="modules/locale/org-netbeans-swing-plaf_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.xml.core/2" name="xml/core" nbmfilename="org-netbeans-modules-xml-core.nbm" nbmhomepage="http://xml.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-xml-core.xml"/>
+        <file name="modules/org-netbeans-modules-xml-core.jar"/>
+        <file name="update_tracking/org-netbeans-modules-xml-core.xml"/>
+        <file name="modules/locale/org-netbeans-modules-xml-core_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-xml-core_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.editor.plain/1" name="editor/plain" nbmfilename="org-netbeans-modules-editor-plain.nbm" nbmhomepage="http://editor.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-editor-plain.xml"/>
+        <file name="modules/org-netbeans-modules-editor-plain.jar"/>
+        <file name="update_tracking/org-netbeans-modules-editor-plain.xml"/>
+        <file name="modules/locale/org-netbeans-modules-editor-plain_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-editor-plain_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.java.editor/1" name="java/editor" nbmfilename="org-netbeans-modules-java-editor.nbm" nbmhomepage="http://java.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-java-editor.xml"/>
+        <file name="modules/org-netbeans-modules-java-editor.jar"/>
+        <file name="update_tracking/org-netbeans-modules-java-editor.xml"/>
+        <file name="modules/locale/org-netbeans-modules-java-editor_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-java-editor_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.java/1" name="java" nbmfilename="org-netbeans-modules-java.nbm" nbmhomepage="http://java.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/ModuleAutoDeps/org-netbeans-modules-java.xml"/>
+        <file name="config/Modules/org-netbeans-modules-java.xml"/>
+        <file name="modules/org-netbeans-modules-java.jar"/>
+        <file name="update_tracking/org-netbeans-modules-java.xml"/>
+        <file name="modules/locale/org-netbeans-modules-java_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-java_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.libs.commons_logging/1" name="libs/commons_logging" nbmfilename="org-netbeans-libs-commons_logging.nbm" nbmhomepage="http://libs.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-libs-commons_logging.xml"/>
+        <file name="modules/ext/commons-logging-1.0.4.jar"/>
+        <file name="modules/org-netbeans-libs-commons_logging.jar"/>
+        <file name="update_tracking/org-netbeans-libs-commons_logging.xml"/>
+        <file name="modules/locale/org-netbeans-libs-commons_logging_ja.jar"/>
+        <file name="modules/locale/org-netbeans-libs-commons_logging_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.versioning.system.cvss/1" name="javacvs/cvsmodule" nbmfilename="org-netbeans-modules-versioning-system-cvss.nbm" nbmhomepage="http://javacvs.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-versioning-system-cvss.xml"/>
+        <file name="modules/docs/org-netbeans-modules-versioning-system-cvss.jar"/>
+        <file name="modules/org-netbeans-modules-versioning-system-cvss.jar"/>
+        <file name="update_tracking/org-netbeans-modules-versioning-system-cvss.xml"/>
+        <file name="modules/docs/locale/org-netbeans-modules-versioning-system-cvss_ja.jar"/>
+        <file name="modules/docs/locale/org-netbeans-modules-versioning-system-cvss_zh_CN.jar"/>
+        <file name="modules/locale/org-netbeans-modules-versioning-system-cvss_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-versioning-system-cvss_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.websvc.registry" name="websvc/registry" nbmfilename="org-netbeans-modules-websvc-registry.nbm" nbmhomepage="http://websvc.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-websvc-registry.xml"/>
+        <file name="config/WebServices/websvc_runtimejars.xml"/>
+        <file name="modules/ext/websvcregistry.jar"/>
+        <file name="modules/org-netbeans-modules-websvc-registry.jar"/>
+        <file name="update_tracking/org-netbeans-modules-websvc-registry.xml"/>
+        <file name="modules/ext/locale/websvcregistry_ja.jar"/>
+        <file name="modules/ext/locale/websvcregistry_zh_CN.jar"/>
+        <file name="modules/locale/org-netbeans-modules-websvc-registry_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-websvc-registry_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.db.core" name="db/core" nbmfilename="org-netbeans-modules-db-core.nbm" nbmhomepage="http://db.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-db-core.xml"/>
+        <file name="modules/org-netbeans-modules-db-core.jar"/>
+        <file name="update_tracking/org-netbeans-modules-db-core.xml"/>
+        <file name="modules/locale/org-netbeans-modules-db-core_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-db-core_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.clazz/1" name="clazz" nbmfilename="org-netbeans-modules-clazz.nbm" nbmhomepage="http://clazz.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-clazz.xml"/>
+        <file name="modules/org-netbeans-modules-clazz.jar"/>
+        <file name="update_tracking/org-netbeans-modules-clazz.xml"/>
+        <file name="modules/locale/org-netbeans-modules-clazz_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-clazz_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.derby" name="db/derby" nbmfilename="org-netbeans-modules-derby.nbm" nbmhomepage="http://db.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-derby.xml"/>
+        <file name="modules/ext/derbysampledb.zip"/>
+        <file name="modules/org-netbeans-modules-derby.jar"/>
+        <file name="update_tracking/org-netbeans-modules-derby.xml"/>
+        <file name="modules/locale/org-netbeans-modules-derby_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-derby_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.xml.catalog/2" name="xml/catalog" nbmfilename="org-netbeans-modules-xml-catalog.nbm" nbmhomepage="http://xml.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-xml-catalog.xml"/>
+        <file name="modules/ext/resolver-1_1_nb.jar"/>
+        <file name="modules/org-netbeans-modules-xml-catalog.jar"/>
+        <file name="update_tracking/org-netbeans-modules-xml-catalog.xml"/>
+        <file name="modules/locale/org-netbeans-modules-xml-catalog_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-xml-catalog_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.j2ee.api.ejbmodule" name="j2ee/ejbapi" nbmfilename="org-netbeans-modules-j2ee-api-ejbmodule.nbm" nbmhomepage="http://j2ee.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-j2ee-api-ejbmodule.xml"/>
+        <file name="modules/org-netbeans-modules-j2ee-api-ejbmodule.jar"/>
+        <file name="update_tracking/org-netbeans-modules-j2ee-api-ejbmodule.xml"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-api-ejbmodule_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-api-ejbmodule_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.j2eeserver/4" name="j2eeserver" nbmfilename="org-netbeans-modules-j2eeserver.nbm" nbmhomepage="http://j2eeserver.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-j2eeserver.xml"/>
+        <file name="modules/org-netbeans-modules-j2eeserver.jar"/>
+        <file name="update_tracking/org-netbeans-modules-j2eeserver.xml"/>
+        <file name="modules/locale/org-netbeans-modules-j2eeserver_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2eeserver_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.css/2" name="xml/css" nbmfilename="org-netbeans-modules-css.nbm" nbmhomepage="http://xml.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-css.xml"/>
+        <file name="modules/ext/flute.jar"/>
+        <file name="modules/ext/sac.jar"/>
+        <file name="modules/org-netbeans-modules-css.jar"/>
+        <file name="update_tracking/org-netbeans-modules-css.xml"/>
+        <file name="modules/locale/org-netbeans-modules-css_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-css_zh_CN.jar"/>
+    </module>
+    <module codename="org.openide.execution" name="openide/execution" nbmfilename="org-openide-execution.nbm" nbmhomepage="http://openide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/ModuleAutoDeps/org-openide-execution.xml"/>
+        <file name="config/Modules/org-openide-execution.xml"/>
+        <file name="modules/org-openide-execution.jar"/>
+        <file name="update_tracking/org-openide-execution.xml"/>
+        <file name="modules/locale/org-openide-execution_ja.jar"/>
+        <file name="modules/locale/org-openide-execution_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.editor.completion/1" name="editor/completion" nbmfilename="org-netbeans-modules-editor-completion.nbm" nbmhomepage="http://editor.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-editor-completion.xml"/>
+        <file name="modules/org-netbeans-modules-editor-completion.jar"/>
+        <file name="update_tracking/org-netbeans-modules-editor-completion.xml"/>
+        <file name="modules/locale/org-netbeans-modules-editor-completion_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-editor-completion_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.favorites/1" name="core/favorites" nbmfilename="org-netbeans-modules-favorites.nbm" nbmhomepage="http://core.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-netbeans-modules-favorites.xml"/>
+        <file name="modules/org-netbeans-modules-favorites.jar"/>
+        <file name="update_tracking/org-netbeans-modules-favorites.xml"/>
+        <file name="modules/locale/org-netbeans-modules-favorites_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-favorites_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.web.examples/1" name="web/examples" nbmfilename="org-netbeans-modules-web-examples.nbm" nbmhomepage="http://web.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-web-examples.xml"/>
+        <file name="modules/org-netbeans-modules-web-examples.jar"/>
+        <file name="update_tracking/org-netbeans-modules-web-examples.xml"/>
+        <file name="modules/locale/org-netbeans-modules-web-examples_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-web-examples_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.j2ee.common/1" name="j2ee/utilities" nbmfilename="org-netbeans-modules-j2ee-common.nbm" nbmhomepage="http://j2ee.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-j2ee-common.xml"/>
+        <file name="modules/org-netbeans-modules-j2ee-common.jar"/>
+        <file name="update_tracking/org-netbeans-modules-j2ee-common.xml"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-common_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-common_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.lib.cvsclient/1" name="javacvs/libmodule" nbmfilename="org-netbeans-lib-cvsclient.nbm" nbmhomepage="http://javacvs.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-lib-cvsclient.xml"/>
+        <file name="modules/org-netbeans-lib-cvsclient.jar"/>
+        <file name="update_tracking/org-netbeans-lib-cvsclient.xml"/>
+        <file name="modules/locale/org-netbeans-lib-cvsclient_ja.jar"/>
+        <file name="modules/locale/org-netbeans-lib-cvsclient_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.options.editor/1" name="editor/options" nbmfilename="org-netbeans-modules-options-editor.nbm" nbmhomepage="http://editor.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-options-editor.xml"/>
+        <file name="modules/org-netbeans-modules-options-editor.jar"/>
+        <file name="update_tracking/org-netbeans-modules-options-editor.xml"/>
+        <file name="modules/locale/org-netbeans-modules-options-editor_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-options-editor_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.core.ui/1" name="core/ui" nbmfilename="org-netbeans-core-ui.nbm" nbmhomepage="http://core.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-netbeans-core-ui.xml"/>
+        <file name="modules/org-netbeans-core-ui.jar"/>
+        <file name="update_tracking/org-netbeans-core-ui.xml"/>
+        <file name="modules/locale/org-netbeans-core-ui_ja.jar"/>
+        <file name="modules/locale/org-netbeans-core-ui_zh_CN.jar"/>
+    </module>
+    <module codename="org.openide.util.enumerations" name="openide/util/enum" nbmfilename="org-openide-util-enumerations.nbm" nbmhomepage="http://openide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-openide-util-enumerations.xml"/>
+        <file name="modules/org-openide-util-enumerations.jar"/>
+        <file name="update_tracking/org-openide-util-enumerations.xml"/>
+        <file name="modules/locale/org-openide-util-enumerations_ja.jar"/>
+        <file name="modules/locale/org-openide-util-enumerations_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.diff/1" name="diff" nbmfilename="org-netbeans-modules-diff.nbm" nbmhomepage="http://diff.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-diff.xml"/>
+        <file name="modules/org-netbeans-modules-diff.jar"/>
+        <file name="update_tracking/org-netbeans-modules-diff.xml"/>
+        <file name="modules/locale/org-netbeans-modules-diff_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-diff_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.defaults/1" name="ide/defaults" nbmfilename="org-netbeans-modules-defaults.nbm" nbmhomepage="http://ide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-defaults.xml"/>
+        <file name="modules/org-netbeans-modules-defaults.jar"/>
+        <file name="update_tracking/org-netbeans-modules-defaults.xml"/>
+        <file name="modules/locale/org-netbeans-modules-defaults_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-defaults_zh_CN.jar"/>
+    </module>
+    <module codename="org.openide.loaders" name="openide/loaders" nbmfilename="org-openide-loaders.nbm" nbmhomepage="http://openide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-openide-loaders.xml"/>
+        <file name="modules/org-openide-loaders.jar"/>
+        <file name="update_tracking/org-openide-loaders.xml"/>
+        <file name="modules/locale/org-openide-loaders_ja.jar"/>
+        <file name="modules/locale/org-openide-loaders_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.editor.fold/1" name="editor/fold" nbmfilename="org-netbeans-modules-editor-fold.nbm" nbmhomepage="http://editor.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-editor-fold.xml"/>
+        <file name="modules/org-netbeans-modules-editor-fold.jar"/>
+        <file name="update_tracking/org-netbeans-modules-editor-fold.xml"/>
+        <file name="modules/locale/org-netbeans-modules-editor-fold_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-editor-fold_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.spi.viewmodel/2" name="debuggercore/viewmodel" nbmfilename="org-netbeans-spi-viewmodel.nbm" nbmhomepage="http://debuggercore.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-spi-viewmodel.xml"/>
+        <file name="modules/org-netbeans-spi-viewmodel.jar"/>
+        <file name="update_tracking/org-netbeans-spi-viewmodel.xml"/>
+        <file name="modules/locale/org-netbeans-spi-viewmodel_ja.jar"/>
+        <file name="modules/locale/org-netbeans-spi-viewmodel_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.libs.xerces/1" name="libs/xerces" nbmfilename="org-netbeans-libs-xerces.nbm" nbmhomepage="http://libs.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-libs-xerces.xml"/>
+        <file name="modules/ext/xerces-2.6.2.jar"/>
+        <file name="modules/ext/xml-commons-dom-ranges-1.0.b2.jar"/>
+        <file name="modules/org-netbeans-libs-xerces.jar"/>
+        <file name="update_tracking/org-netbeans-libs-xerces.xml"/>
+        <file name="modules/locale/org-netbeans-libs-xerces_ja.jar"/>
+        <file name="modules/locale/org-netbeans-libs-xerces_zh_CN.jar"/>
+    </module>
+    <module codename="org.openide.actions" name="openide/actions" nbmfilename="org-openide-actions.nbm" nbmhomepage="http://openide.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-openide-actions.xml"/>
+        <file name="modules/org-openide-actions.jar"/>
+        <file name="update_tracking/org-openide-actions.xml"/>
+        <file name="modules/locale/org-openide-actions_ja.jar"/>
+        <file name="modules/locale/org-openide-actions_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.bootstrap/1" name="core/bootstrap" nbmfilename="org-netbeans-bootstrap.nbm" nbmhomepage="http://core.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="lib/boot.jar"/>
+        <file name="lib/nbexec"/>
+        <file name="lib/nbexec.cmd"/>
+        <file name="lib/nbexec.exe"/>
+        <file name="config/Modules/org-netbeans-bootstrap.xml"/>
+        <file name="update_tracking/org-netbeans-bootstrap.xml"/>
+        <file name="lib/locale/boot_ja.jar"/>
+        <file name="lib/locale/boot_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.xml.multiview/1" name="xml/multiview" nbmfilename="org-netbeans-modules-xml-multiview.nbm" nbmhomepage="http://xml.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-xml-multiview.xml"/>
+        <file name="modules/org-netbeans-modules-xml-multiview.jar"/>
+        <file name="update_tracking/org-netbeans-modules-xml-multiview.xml"/>
+        <file name="modules/locale/org-netbeans-modules-xml-multiview_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-xml-multiview_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.api.debugger/1" name="debuggercore/api" nbmfilename="org-netbeans-api-debugger.nbm" nbmhomepage="http://debuggercore.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-api-debugger.xml"/>
+        <file name="modules/org-netbeans-api-debugger.jar"/>
+        <file name="update_tracking/org-netbeans-api-debugger.xml"/>
+        <file name="modules/locale/org-netbeans-api-debugger_ja.jar"/>
+        <file name="modules/locale/org-netbeans-api-debugger_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.j2ee.sun.ddui/1" name="serverplugins/sun/sunddui" nbmfilename="org-netbeans-modules-j2ee-sun-ddui.nbm" nbmhomepage="http://serverplugins.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-j2ee-sun-ddui.xml"/>
+        <file name="modules/org-netbeans-modules-j2ee-sun-ddui.jar"/>
+        <file name="update_tracking/org-netbeans-modules-j2ee-sun-ddui.xml"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-sun-ddui_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-sun-ddui_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.editor.bookmarks/1" name="editor/bookmarks" nbmfilename="org-netbeans-modules-editor-bookmarks.nbm" nbmhomepage="http://editor.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-editor-bookmarks.xml"/>
+        <file name="modules/org-netbeans-modules-editor-bookmarks.jar"/>
+        <file name="update_tracking/org-netbeans-modules-editor-bookmarks.xml"/>
+        <file name="modules/locale/org-netbeans-modules-editor-bookmarks_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-editor-bookmarks_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.editor.structure/1" name="xml/tageditorsupport" nbmfilename="org-netbeans-modules-editor-structure.nbm" nbmhomepage="http://xml.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-editor-structure.xml"/>
+        <file name="modules/org-netbeans-modules-editor-structure.jar"/>
+        <file name="update_tracking/org-netbeans-modules-editor-structure.xml"/>
+        <file name="modules/locale/org-netbeans-modules-editor-structure_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-editor-structure_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.j2ee.ant" name="j2eeserver/ant" nbmfilename="org-netbeans-modules-j2ee-ant.nbm" nbmhomepage="http://j2eeserver.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="ant/nblib/org-netbeans-modules-j2ee-ant.jar"/>
+        <file name="config/Modules/org-netbeans-modules-j2ee-ant.xml"/>
+        <file name="modules/org-netbeans-modules-j2ee-ant.jar"/>
+        <file name="update_tracking/org-netbeans-modules-j2ee-ant.xml"/>
+        <file name="ant/nblib/locale/org-netbeans-modules-j2ee-ant_ja.jar"/>
+        <file name="ant/nblib/locale/org-netbeans-modules-j2ee-ant_zh_CN.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-ant_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-j2ee-ant_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.settings/1" name="core/settings" nbmfilename="org-netbeans-modules-settings.nbm" nbmhomepage="http://core.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="platform6">
+        <file name="config/Modules/org-netbeans-modules-settings.xml"/>
+        <file name="modules/org-netbeans-modules-settings.jar"/>
+        <file name="update_tracking/org-netbeans-modules-settings.xml"/>
+        <file name="modules/locale/org-netbeans-modules-settings_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-settings_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.xml.tax/2" name="xml/tax" nbmfilename="org-netbeans-modules-xml-tax.nbm" nbmhomepage="http://xml.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-xml-tax.xml"/>
+        <file name="modules/ext/org-netbeans-tax.jar"/>
+        <file name="modules/org-netbeans-modules-xml-tax.jar"/>
+        <file name="update_tracking/org-netbeans-modules-xml-tax.xml"/>
+        <file name="modules/ext/locale/org-netbeans-tax_ja.jar"/>
+        <file name="modules/ext/locale/org-netbeans-tax_zh_CN.jar"/>
+        <file name="modules/locale/org-netbeans-modules-xml-tax_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-xml-tax_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.websvc.core" name="websvc/core" nbmfilename="org-netbeans-modules-websvc-core.nbm" nbmhomepage="http://websvc.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="enterprise2">
+        <file name="ant/extra/wsclientuptodate.jar"/>
+        <file name="ant/sources/org/netbeans/modules/websvc/core/ant/WsClientUpToDate.java"/>
+        <file name="config/Modules/org-netbeans-modules-websvc-core.xml"/>
+        <file name="modules/org-netbeans-modules-websvc-core.jar"/>
+        <file name="update_tracking/org-netbeans-modules-websvc-core.xml"/>
+        <file name="modules/locale/org-netbeans-modules-websvc-core_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-websvc-core_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.java.hints/1" name="java/hints" nbmfilename="org-netbeans-modules-java-hints.nbm" nbmhomepage="http://java.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="true" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-java-hints.xml"/>
+        <file name="modules/org-netbeans-modules-java-hints.jar"/>
+        <file name="update_tracking/org-netbeans-modules-java-hints.xml"/>
+        <file name="modules/locale/org-netbeans-modules-java-hints_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-java-hints_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.tomcat5.bundled/1" name="tomcatint/tomcat5/bundled" nbmfilename="" nbmhomepage="" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="" nbmreleasedate="" path="enterprise2">
+        <file name="config/Modules/org-netbeans-modules-tomcat5-bundled.xml"/>
+        <file name="jakarta-tomcat-5.5.9/LICENSE"/>
+        <file name="jakarta-tomcat-5.5.9/NOTICE"/>
+        <file name="jakarta-tomcat-5.5.9/RELEASE-NOTES"/>
+        <file name="jakarta-tomcat-5.5.9/RUNNING.txt"/>
+        <file name="jakarta-tomcat-5.5.9/bin/bootstrap.jar"/>
+        <file name="jakarta-tomcat-5.5.9/bin/catalina.bat"/>
+        <file name="jakarta-tomcat-5.5.9/bin/catalina.sh"/>
+        <file name="jakarta-tomcat-5.5.9/bin/commons-daemon.jar"/>
+        <file name="jakarta-tomcat-5.5.9/bin/commons-logging-api.jar"/>
+        <file name="jakarta-tomcat-5.5.9/bin/cpappend.bat"/>
+        <file name="jakarta-tomcat-5.5.9/bin/digest.bat"/>
+        <file name="jakarta-tomcat-5.5.9/bin/digest.sh"/>
+        <file name="jakarta-tomcat-5.5.9/bin/jmx.jar"/>
+        <file name="jakarta-tomcat-5.5.9/bin/jsvc.tar.gz"/>
+        <file name="jakarta-tomcat-5.5.9/bin/service.bat"/>
+        <file name="jakarta-tomcat-5.5.9/bin/setclasspath.bat"/>
+        <file name="jakarta-tomcat-5.5.9/bin/setclasspath.sh"/>
+        <file name="jakarta-tomcat-5.5.9/bin/shutdown.bat"/>
+        <file name="jakarta-tomcat-5.5.9/bin/shutdown.sh"/>
+        <file name="jakarta-tomcat-5.5.9/bin/startup.bat"/>
+        <file name="jakarta-tomcat-5.5.9/bin/startup.sh"/>
+        <file name="jakarta-tomcat-5.5.9/bin/tomcat-juli.jar"/>
+        <file name="jakarta-tomcat-5.5.9/bin/tomcat5.exe"/>
+        <file name="jakarta-tomcat-5.5.9/bin/tomcat5w.exe"/>
+        <file name="jakarta-tomcat-5.5.9/bin/tool-wrapper.bat"/>
+        <file name="jakarta-tomcat-5.5.9/bin/tool-wrapper.sh"/>
+        <file name="jakarta-tomcat-5.5.9/bin/version.bat"/>
+        <file name="jakarta-tomcat-5.5.9/bin/version.sh"/>
+        <file name="jakarta-tomcat-5.5.9/common/classes/dummy"/>
+        <file name="jakarta-tomcat-5.5.9/common/classes/logging.properties"/>
+        <file name="jakarta-tomcat-5.5.9/common/endorsed/xercesImpl.jar"/>
+        <file name="jakarta-tomcat-5.5.9/common/endorsed/xml-apis.jar"/>
+        <file name="jakarta-tomcat-5.5.9/common/i18n/tomcat-i18n-en.jar"/>
+        <file name="jakarta-tomcat-5.5.9/common/i18n/tomcat-i18n-es.jar"/>
+        <file name="jakarta-tomcat-5.5.9/common/i18n/tomcat-i18n-fr.jar"/>
+        <file name="jakarta-tomcat-5.5.9/common/i18n/tomcat-i18n-ja.jar"/>
+        <file name="jakarta-tomcat-5.5.9/common/lib/ant.jar"/>
+        <file name="jakarta-tomcat-5.5.9/common/lib/commons-el.jar"/>
+        <file name="jakarta-tomcat-5.5.9/common/lib/jasper-compiler.jar"/>
+        <file name="jakarta-tomcat-5.5.9/common/lib/jasper-runtime.jar"/>
+        <file name="jakarta-tomcat-5.5.9/common/lib/jsp-api.jar"/>
+        <file name="jakarta-tomcat-5.5.9/common/lib/naming-factory-dbcp.jar"/>
+        <file name="jakarta-tomcat-5.5.9/common/lib/naming-factory.jar"/>
+        <file name="jakarta-tomcat-5.5.9/common/lib/naming-resources.jar"/>
+        <file name="jakarta-tomcat-5.5.9/common/lib/org-netbeans-modules-schema2beans.jar"/>
+        <file name="jakarta-tomcat-5.5.9/common/lib/org-netbeans-modules-web-httpmonitor.jar"/>
+        <file name="jakarta-tomcat-5.5.9/common/lib/servlet-api.jar"/>
+        <file name="jakarta-tomcat-5.5.9/conf/Catalina/localhost/admin.xml"/>
+        <file name="jakarta-tomcat-5.5.9/conf/Catalina/localhost/host-manager.xml"/>
+        <file name="jakarta-tomcat-5.5.9/conf/Catalina/localhost/manager.xml"/>
+        <file name="jakarta-tomcat-5.5.9/conf/catalina.policy"/>
+        <file name="jakarta-tomcat-5.5.9/conf/catalina.properties"/>
+        <file name="jakarta-tomcat-5.5.9/conf/context.xml"/>
+        <file name="jakarta-tomcat-5.5.9/conf/jk2.manifest"/>
+        <file name="jakarta-tomcat-5.5.9/conf/jk2.properties"/>
+        <file name="jakarta-tomcat-5.5.9/conf/jkconf.ant.xml"/>
+        <file name="jakarta-tomcat-5.5.9/conf/jkconfig.manifest"/>
+        <file name="jakarta-tomcat-5.5.9/conf/server-minimal.xml"/>
+        <file name="jakarta-tomcat-5.5.9/conf/server.xml"/>
+        <file name="jakarta-tomcat-5.5.9/conf/shm.manifest"/>
+        <file name="jakarta-tomcat-5.5.9/conf/tomcat-jk2.manifest"/>
+        <file name="jakarta-tomcat-5.5.9/conf/tomcat-users.xml"/>
+        <file name="jakarta-tomcat-5.5.9/conf/uriworkermap.properties"/>
+        <file name="jakarta-tomcat-5.5.9/conf/web.xml"/>
+        <file name="jakarta-tomcat-5.5.9/conf/workers.properties"/>
+        <file name="jakarta-tomcat-5.5.9/conf/workers.properties.minimal"/>
+        <file name="jakarta-tomcat-5.5.9/conf/workers2.properties"/>
+        <file name="jakarta-tomcat-5.5.9/conf/workers2.properties.minimal"/>
+        <file name="jakarta-tomcat-5.5.9/logs/dummy"/>
+        <file name="jakarta-tomcat-5.5.9/server/lib/catalina-ant.jar"/>
+        <file name="jakarta-tomcat-5.5.9/server/lib/catalina-cluster.jar"/>
+        <file name="jakarta-tomcat-5.5.9/server/lib/catalina-optional.jar"/>
+        <file name="jakarta-tomcat-5.5.9/server/lib/catalina-storeconfig.jar"/>
+        <file name="jakarta-tomcat-5.5.9/server/lib/catalina.jar"/>
+        <file name="jakarta-tomcat-5.5.9/server/lib/commons-modeler.jar"/>
+        <file name="jakarta-tomcat-5.5.9/server/lib/servlets-cgi.renametojar"/>
+        <file name="jakarta-tomcat-5.5.9/server/lib/servlets-default.jar"/>
+        <file name="jakarta-tomcat-5.5.9/server/lib/servlets-invoker.jar"/>
+        <file name="jakarta-tomcat-5.5.9/server/lib/servlets-ssi.renametojar"/>
+        <file name="jakarta-tomcat-5.5.9/server/lib/servlets-webdav.jar"/>
+        <file name="jakarta-tomcat-5.5.9/server/lib/tomcat-ajp.jar"/>
+        <file name="jakarta-tomcat-5.5.9/server/lib/tomcat-coyote.jar"/>
+        <file name="jakarta-tomcat-5.5.9/server/lib/tomcat-http.jar"/>
+        <file name="jakarta-tomcat-5.5.9/server/lib/tomcat-util.jar"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/WEB-INF/controls.tld"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/WEB-INF/lib/catalina-admin.jar"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/WEB-INF/lib/commons-beanutils.jar"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/WEB-INF/lib/commons-collections.jar"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/WEB-INF/lib/commons-digester.jar"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/WEB-INF/lib/struts.jar"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/WEB-INF/struts-config.xml"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/WEB-INF/web.xml"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/admin.css"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/admin.xml"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/BlueTile.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/Connector.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/Context.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/Datasource.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/DefaultContext.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/EnvironmentEntries.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/Groups.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/Host.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/Logger.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/Login.jpg"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/LoginBackgroundTile.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/Mailsession.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/PaperTexture.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/Realm.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/ResourceLink.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/Roles.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/Server.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/Service.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/Thumbs.db"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/TomcatBanner.jpg"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/Users.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/Valve.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/folder_16_pad.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/handledownlast.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/handledownmiddle.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/handlerightlast.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/handlerightmiddle.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/linelastnode.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/linemiddlenode.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/images/linevertical.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/admin/tree-control-test.css"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/host-manager/WEB-INF/lib/catalina-host-manager.jar"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/host-manager/WEB-INF/web.xml"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/host-manager/host-manager.xml"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/host-manager/images/add.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/host-manager/images/code.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/host-manager/images/design.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/host-manager/images/docs.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/host-manager/images/fix.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/host-manager/images/jakarta-logo.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/host-manager/images/tomcat.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/host-manager/images/update.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/host-manager/images/void.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/host-manager/manager.xml"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/manager/WEB-INF/lib/catalina-manager.jar"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/manager/WEB-INF/lib/commons-fileupload-1.0.jar"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/manager/WEB-INF/web.xml"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/manager/html-manager-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/manager/images/add.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/manager/images/code.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/manager/images/design.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/manager/images/docs.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/manager/images/fix.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/manager/images/jakarta-logo.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/manager/images/tomcat.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/manager/images/update.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/manager/images/void.gif"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/manager/manager-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/manager/manager.xml"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/manager/status.xsd"/>
+        <file name="jakarta-tomcat-5.5.9/server/webapps/manager/xform.xsl"/>
+        <file name="jakarta-tomcat-5.5.9/temp/dummy"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/ROOT/RELEASE-NOTES.txt"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/ROOT/WEB-INF/lib/catalina-root.jar"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/ROOT/WEB-INF/web.xml"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/ROOT/admin/index.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/ROOT/index.jsp"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/ROOT/jakarta-banner.gif"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/ROOT/tomcat-power.gif"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/ROOT/tomcat.gif"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/balancer/META-INF/context.xml"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/balancer/WEB-INF/config/rules.xml"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/balancer/WEB-INF/lib/catalina-balancer.jar"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/balancer/WEB-INF/web.xml"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/RELEASE-NOTES.txt"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/WEB-INF/web.xml"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/build.xml.txt"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/deployment.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/index.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/installation.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/introduction.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/printer/build.xml.txt"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/printer/deployment.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/printer/index.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/printer/installation.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/printer/introduction.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/printer/processes.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/printer/source.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/printer/web.xml.txt"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/processes.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/sample/build.xml"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/sample/docs/README.txt"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/sample/index.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/sample/sample.war"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/sample/src/mypackage/Hello.java"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/sample/web/WEB-INF/web.xml"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/sample/web/hello.jsp"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/sample/web/images/tomcat.gif"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/sample/web/index.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/source.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/appdev/web.xml.txt"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/architecture/index.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/architecture/overview.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/architecture/printer/index.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/architecture/printer/overview.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/architecture/printer/requestProcess.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/architecture/printer/startup.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/architecture/requestProcess.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/architecture/requestProcess/requestProcess.pdf"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/architecture/requestProcess/roseModel.mdl"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/architecture/startup.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/architecture/startup/serverStartup.pdf"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/architecture/startup/serverStartup.txt"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/balancer-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/build.xml"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/building.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/cgi-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/changelog.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/class-loader-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/cluster-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/ajp.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/context.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/engine.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/globalresources.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/host.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/http.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/index.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/loader.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/manager.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/printer/ajp.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/printer/context.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/printer/engine.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/printer/globalresources.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/printer/host.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/printer/http.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/printer/index.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/printer/loader.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/printer/manager.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/printer/realm.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/printer/resources.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/printer/server.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/printer/service.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/printer/valve.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/realm.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/resources.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/server.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/service.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/config/valve.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/connectors.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/default-servlet.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/deployer-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/developers.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/html-manager-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/images/add.gif"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/images/code.gif"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/images/design.gif"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/images/docs.gif"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/images/fix.gif"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/images/jakarta-logo.gif"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/images/printer.gif"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/images/tomcat.gif"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/images/update.gif"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/images/void.gif"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/index.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/introduction.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/jasper-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/jndi-datasource-examples-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/jndi-resources-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/logging.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/manager-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/mbeans-descriptor-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/monitoring.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/balancer-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/building.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/cgi-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/changelog.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/class-loader-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/cluster-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/connectors.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/default-servlet.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/deployer-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/developers.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/html-manager-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/index.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/introduction.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/jasper-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/jndi-datasource-examples-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/jndi-resources-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/logging.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/manager-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/mbeans-descriptor-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/monitoring.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/proxy-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/realm-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/security-manager-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/setup.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/ssi-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/ssl-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/status.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/printer/windows-service-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/proxy-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/realm-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/security-manager-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/setup.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/ssi-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/ssl-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/status.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/tomcat-docs/windows-service-howto.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/webdav/WEB-INF/web.xml"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/webdav/index.html"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/webdav/tomcat-power.gif"/>
+        <file name="jakarta-tomcat-5.5.9/webapps/webdav/tomcat.gif"/>
+        <file name="jakarta-tomcat-5.5.9/work/dummy"/>
+        <file name="modules/eager/tomcat5-bundled.jar"/>
+        <file name="update_tracking/org-netbeans-modules-tomcat5-bundled.xml"/>
+        <file name="modules/eager/locale/tomcat5-bundled_ja.jar"/>
+        <file name="modules/eager/locale/tomcat5-bundled_zh_CN.jar"/>
+        <file name="config/Modules/org-netbeans-modules-schema2beans.xml"/>
+        <file name="update_tracking/org-netbeans-modules-schema2beans.xml"/>
+    </module>
+    <module codename="org.netbeans.jmi.javamodel/2" name="java/javamodel" nbmfilename="org-netbeans-jmi-javamodel.nbm" nbmhomepage="http://java.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-jmi-javamodel.xml"/>
+        <file name="modules/org-netbeans-jmi-javamodel.jar"/>
+        <file name="update_tracking/org-netbeans-jmi-javamodel.xml"/>
+        <file name="modules/locale/org-netbeans-jmi-javamodel_ja.jar"/>
+        <file name="modules/locale/org-netbeans-jmi-javamodel_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.db.sql.editor" name="db/sqleditor" nbmfilename="org-netbeans-modules-db-sql-editor.nbm" nbmhomepage="http://db.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-db-sql-editor.xml"/>
+        <file name="modules/org-netbeans-modules-db-sql-editor.jar"/>
+        <file name="update_tracking/org-netbeans-modules-db-sql-editor.xml"/>
+        <file name="modules/locale/org-netbeans-modules-db-sql-editor_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-db-sql-editor_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.versioning/1" name="versioncontrol" nbmfilename="org-netbeans-modules-versioning.nbm" nbmhomepage="http://versioncontrol.netbeans.org/" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-versioning.xml"/>
+        <file name="modules/org-netbeans-modules-versioning.jar"/>
+        <file name="update_tracking/org-netbeans-modules-versioning.xml"/>
+        <file name="modules/locale/org-netbeans-modules-versioning_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-versioning_zh_CN.jar"/>
+    </module>
+    <module codename="org.netbeans.modules.tasklist.docscan/2" name="tasklist/docscan" nbmfilename="org-netbeans-modules-tasklist-docscan.nbm" nbmhomepage="http://tasklist.netbeans.org/updates/tasklist-docscan.html" nbmisglobal="" nbmmoduleauthor="" nbmneedsrestart="false" nbmreleasedate="" path="ide6">
+        <file name="config/Modules/org-netbeans-modules-tasklist-docscan.xml"/>
+        <file name="modules/org-netbeans-modules-tasklist-docscan.jar"/>
+        <file name="update_tracking/org-netbeans-modules-tasklist-docscan.xml"/>
+        <file name="modules/locale/org-netbeans-modules-tasklist-docscan_ja.jar"/>
+        <file name="modules/locale/org-netbeans-modules-tasklist-docscan_zh_CN.jar"/>
+    </module>
+</tracking>

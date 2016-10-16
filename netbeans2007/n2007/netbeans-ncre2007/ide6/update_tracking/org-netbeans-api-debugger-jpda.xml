@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.api.debugger.jpda/2">
+    <module_version install_time="1142379380505" last="true" origin="installer" specification_version="2.4.1">
+        <file crc="381361517" name="config/Modules/org-netbeans-api-debugger-jpda.xml"/>
+        <file crc="2072343394" name="modules/locale/org-netbeans-api-debugger-jpda_ja.jar"/>
+        <file crc="860817562" name="modules/locale/org-netbeans-api-debugger-jpda_zh_CN.jar"/>
+        <file crc="3574590907" name="modules/org-netbeans-api-debugger-jpda.jar"/>
+    </module_version>
+</module>

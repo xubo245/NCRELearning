@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<fontscolors>
+    <fontcolor name="keyword" foreColor="ff000099">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor name="char" foreColor="ff006f00"/>
+    <fontcolor name="string" foreColor="ff99006b"/>
+    <fontcolor name="number" foreColor="ff780000"/>
+    <fontcolor name="identifier"/>
+    <fontcolor name="comment" foreColor="ff737373"/>
+    <fontcolor name="whitespace" foreColor="black"/>
+    <fontcolor name="default" foreColor="black" bgColor="white">
+        <font name="宋体" size="12"/>
+    </fontcolor>
+    <fontcolor name="operator"/>
+    <fontcolor name="error" foreColor="black" bgColor="pink"/>
+</fontscolors>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.mdr/1">
+    <module_version install_time="1142379477498" last="true" origin="installer" specification_version="1.5.1.2.2">
+        <file crc="55641510" name="config/Modules/org-netbeans-modules-mdr.xml"/>
+        <file crc="4008084717" name="modules/ext/mdr.jar"/>
+        <file crc="1085592913" name="modules/locale/org-netbeans-modules-mdr_ja.jar"/>
+        <file crc="536651098" name="modules/locale/org-netbeans-modules-mdr_zh_CN.jar"/>
+        <file crc="813409201" name="modules/org-netbeans-modules-mdr.jar"/>
+    </module_version>
+</module>

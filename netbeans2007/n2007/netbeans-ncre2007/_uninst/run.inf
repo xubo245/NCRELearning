@@ -1,0 +1,21 @@
+#Run Properties
+#Mon Jun 18 17:19:35 CST 2007
+EXT_JAR.3=genericunixppk.jar
+SPAN=false
+EXT_JAR.2=solarisppk.jar
+EXT_JAR.1=windowsppk.jar
+EXT_JAR.0=linuxppk.jar
+LIB_JAR.0=hsqldb.jar
+ROOT_VER=5.0
+ENG_VER=1.0
+LIB_JAR_COUNT=1
+EXT_JAR_COUNT=4
+PHASE_PROMPT=false
+ENG_LOC=C\:\\Program Files\\Common Files\\InstallShield\\Universal\\common\\Gen1
+ENG_UPDATE_VER=0
+ROOT_DATA_LOC=.
+START_CLASS=com.installshield.wizard.Wizard
+INST_RES=
+ROOT_UUID=35d1937569d827b124b402ff82500000
+CP_COUNT=0
+DATA_COUNT=0

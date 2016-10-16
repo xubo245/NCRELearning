@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="javax.jmi.reflect/1">
+    <module_version install_time="1142379373796" last="true" origin="installer" specification_version="1.7.1">
+        <file crc="4092552785" name="config/Modules/javax-jmi-reflect.xml"/>
+        <file crc="166970253" name="modules/ext/jmi.jar"/>
+        <file crc="3641863153" name="modules/javax-jmi-reflect.jar"/>
+        <file crc="1839471997" name="modules/locale/javax-jmi-reflect_ja.jar"/>
+        <file crc="1462898869" name="modules/locale/javax-jmi-reflect_zh_CN.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.tasklist.core/2">
+    <module_version install_time="1142379499096" last="true" origin="installer" specification_version="1.37.1.16.7">
+        <file crc="1601175623" name="config/Modules/org-netbeans-modules-tasklist-core.xml"/>
+        <file crc="3382524785" name="modules/locale/org-netbeans-modules-tasklist-core_ja.jar"/>
+        <file crc="3681426990" name="modules/locale/org-netbeans-modules-tasklist-core_zh_CN.jar"/>
+        <file crc="2535606755" name="modules/org-netbeans-modules-tasklist-core.jar"/>
+    </module_version>
+</module>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.xsl/1">
+    <module_version install_time="1142379522340" last="true" origin="installer" specification_version="1.11.1.4">
+        <file crc="1913385760" name="config/Modules/org-netbeans-modules-xsl.xml"/>
+        <file crc="3397190" name="modules/locale/org-netbeans-modules-xsl_ja.jar"/>
+        <file crc="1701349838" name="modules/locale/org-netbeans-modules-xsl_zh_CN.jar"/>
+        <file crc="223382776" name="modules/org-netbeans-modules-xsl.jar"/>
+    </module_version>
+</module>

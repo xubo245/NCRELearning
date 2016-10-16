@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.suggestions_framework/2">
+    <module_version install_time="1142379496630" last="true" origin="installer" specification_version="1.15.1.9.16.7">
+        <file crc="724922302" name="config/Modules/org-netbeans-modules-suggestions_framework.xml"/>
+        <file crc="3178063288" name="modules/locale/org-netbeans-modules-suggestions_framework_ja.jar"/>
+        <file crc="326945646" name="modules/locale/org-netbeans-modules-suggestions_framework_zh_CN.jar"/>
+        <file crc="3815073975" name="modules/org-netbeans-modules-suggestions_framework.jar"/>
+    </module_version>
+</module>

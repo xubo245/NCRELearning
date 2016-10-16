@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module codename="org.netbeans.modules.css/2">
+    <module_version install_time="1142379410408" last="true" origin="installer" specification_version="1.11.1">
+        <file crc="1544130664" name="config/Modules/org-netbeans-modules-css.xml"/>
+        <file crc="2139671632" name="modules/ext/flute.jar"/>
+        <file crc="3106582809" name="modules/ext/sac.jar"/>
+        <file crc="2823318261" name="modules/locale/org-netbeans-modules-css_ja.jar"/>
+        <file crc="517054928" name="modules/locale/org-netbeans-modules-css_zh_CN.jar"/>
+        <file crc="2228282101" name="modules/org-netbeans-modules-css.jar"/>
+    </module_version>
+</module>
